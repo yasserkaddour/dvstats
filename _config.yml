@@ -1,1 +1,145 @@
+title: DV Stats
+name: 2021 Diversity Visa Statistics
+email: dv@frankgh.com
+description: >-
+  We are 2021 Diversity Visa winners that are fighting for our chance to
+  immigrate into the United States. This is not an official source of
+  information. However, we make strides to provide accurate data extracted
+  from the CEAC Official Website.
+baseurl: ""
+twitter_username: frankgh
+github_username:  frankgh
+
+# Build settings
 theme: jekyll-theme-cayman
+
+stats:
+  updated_date: July 22, 2021 @ 13:57 PST
+  summary:
+    - label: AF
+      quota: 23328
+      quota_percentage: 5.1%
+      ap:
+        cases: 31
+        visas: 43
+      issued:
+        cases: 1079
+        visas: 1658
+      ready:
+        cases: 1218
+        visas: 2543
+      refused:
+        cases: 300
+        visas: 435
+      transit: 63
+      total:
+        cases: 2691
+        visas: 4742
+    - label: AS
+      quota: 8424
+      ap:
+        cases: 10
+        visas: 22
+      issued:
+        cases: 310
+        visas: 595
+      ready:
+        cases: 629
+        visas: 1263
+      refused:
+        cases: 114
+        visas: 174
+      transit: 20
+      total:
+        cases: 1083
+        visas: 2074
+    - label: EU
+      quota: 19764
+      ap:
+        cases: 9
+        visas: 16
+      issued:
+        cases: 688
+        visas: 1313
+      ready:
+        cases: 755
+        visas: 1795
+      refused:
+        cases: 150
+        visas: 269
+      transit: 49
+      total:
+        cases: 1651
+        visas: 3442
+    - label: NA
+      quota: 25
+      ap:
+        cases: 0
+        visas: 0
+      issued:
+        cases: 7
+        visas: 14
+      ready:
+        cases: 1
+        visas: 4
+      refused:
+        cases: 0
+        visas: 0
+      transit: 0
+      total:
+        cases: 8
+        visas: 18
+    - label: OC
+      quota: 864
+      ap:
+        cases: 3
+        visas: 3
+      issued:
+        cases: 127
+        visas: 161
+      ready:
+        cases: 306
+        visas: 629
+      refused:
+        cases: 36
+        visas: 44
+      transit: 0
+      total:
+        cases: 472
+        visas: 837
+    - label: SA
+      quota: 1620
+      ap:
+        cases: 1
+        visas: 2
+      issued:
+        cases: 252
+        visas: 449
+      ready:
+        cases: 383
+        visas: 864
+      refused:
+        cases: 21
+        visas: 29
+      transit: 3
+      total:
+        cases: 660
+        visas: 1347
+    - label: Total
+      quota: 54000
+      ap:
+        cases: 54
+        visas: 86
+      issued:
+        cases: 2463
+        visas: 4190
+      ready:
+        cases: 3292
+        visas: 7098
+      refused:
+        cases: 621
+        visas: 951
+      transit: 135
+      total:
+        cases: 6565
+        visas: 1347
