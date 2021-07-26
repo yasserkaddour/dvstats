@@ -75,7 +75,7 @@ summary:
   total:
     cases: 8
     visas: 18
-  quota_percentage: "90%"
+  quota_percentage: "90.00%"
 - label: "OC"
   quota: 864
   ap:
@@ -98,14 +98,14 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 1
-    visas: 1
+    cases: 2
+    visas: 3
   issued:
     cases: 256
     visas: 459
   ready:
-    cases: 382
-    visas: 860
+    cases: 381
+    visas: 858
   refused:
     cases: 20
     visas: 28
@@ -117,14 +117,14 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 69
-    visas: 98
+    cases: 70
+    visas: 100
   issued:
     cases: 2563
     visas: 4354
   ready:
-    cases: 3303
-    visas: 7205
+    cases: 3302
+    visas: 7203
   refused:
     cases: 638
     visas: 989
@@ -133,4 +133,4 @@ summary:
     cases: 6590
     visas: 12663
   quota_percentage: "23.45%"
-updated_date: "July 26, 2021 @ 10:51 PDT"
+updated_date: "July 26, 2021 @ 11:11 PDT"
