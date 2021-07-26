@@ -1,129 +1,136 @@
-updated_date: July 22, 2021 @ 13:57 PST
+---
 summary:
-  - label: AF
-    quota: 23328
-    quota_percentage: 5.1%
-    ap:
-      cases: 31
-      visas: 43
-    issued:
-      cases: 1079
-      visas: 1658
-    ready:
-      cases: 1218
-      visas: 2543
-    refused:
-      cases: 300
-      visas: 435
-    transit: 63
-    total:
-      cases: 2691
-      visas: 4742
-  - label: AS
-    quota: 8424
-    ap:
-      cases: 10
-      visas: 22
-    issued:
-      cases: 310
-      visas: 595
-    ready:
-      cases: 629
-      visas: 1263
-    refused:
-      cases: 114
-      visas: 174
-    transit: 20
-    total:
-      cases: 1083
-      visas: 2074
-  - label: EU
-    quota: 19764
-    ap:
-      cases: 9
-      visas: 16
-    issued:
-      cases: 688
-      visas: 1313
-    ready:
-      cases: 755
-      visas: 1795
-    refused:
-      cases: 150
-      visas: 269
-    transit: 49
-    total:
-      cases: 1651
-      visas: 3442
-  - label: NA
-    quota: 25
-    ap:
-      cases: 0
-      visas: 0
-    issued:
-      cases: 7
-      visas: 14
-    ready:
-      cases: 1
-      visas: 4
-    refused:
-      cases: 0
-      visas: 0
-    transit: 0
-    total:
-      cases: 8
-      visas: 18
-  - label: OC
-    quota: 864
-    ap:
-      cases: 3
-      visas: 3
-    issued:
-      cases: 127
-      visas: 161
-    ready:
-      cases: 306
-      visas: 629
-    refused:
-      cases: 36
-      visas: 44
-    transit: 0
-    total:
-      cases: 472
-      visas: 837
-  - label: SA
-    quota: 1620
-    ap:
-      cases: 1
-      visas: 2
-    issued:
-      cases: 252
-      visas: 449
-    ready:
-      cases: 383
-      visas: 864
-    refused:
-      cases: 21
-      visas: 29
-    transit: 3
-    total:
-      cases: 660
-      visas: 1347
-  - label: Total
-    quota: 54000
-    ap:
-      cases: 54
-      visas: 86
-    issued:
-      cases: 2463
-      visas: 4190
-    ready:
-      cases: 3292
-      visas: 7098
-    refused:
-      cases: 621
-      visas: 951
-    transit: 135
-    total:
-      cases: 6565
-      visas: 1347
+- label: "AF"
+  quota: 23328
+  ap:
+    cases: 40
+    visas: 57
+  issued:
+    cases: 1117
+    visas: 1713
+  ready:
+    cases: 1214
+    visas: 2538
+  refused:
+    cases: 311
+    visas: 464
+  transit: 9
+  total:
+    cases: 2691
+    visas: 4781
+  quota_percentage: "20.49%"
+- label: "AS"
+  quota: 8424
+  ap:
+    cases: 15
+    visas: 19
+  issued:
+    cases: 323
+    visas: 621
+  ready:
+    cases: 646
+    visas: 1368
+  refused:
+    cases: 118
+    visas: 180
+  transit: 7
+  total:
+    cases: 1109
+    visas: 2195
+  quota_percentage: "26.06%"
+- label: "EU"
+  quota: 19764
+  ap:
+    cases: 10
+    visas: 18
+  issued:
+    cases: 731
+    visas: 1384
+  ready:
+    cases: 756
+    visas: 1805
+  refused:
+    cases: 153
+    visas: 273
+  transit: 0
+  total:
+    cases: 1650
+    visas: 3480
+  quota_percentage: "17.61%"
+- label: "NA"
+  quota: 20
+  ap:
+    cases: 0
+    visas: 0
+  issued:
+    cases: 7
+    visas: 14
+  ready:
+    cases: 1
+    visas: 4
+  refused:
+    cases: 0
+    visas: 0
+  transit: 0
+  total:
+    cases: 8
+    visas: 18
+  quota_percentage: "90%"
+- label: "OC"
+  quota: 864
+  ap:
+    cases: 3
+    visas: 3
+  issued:
+    cases: 129
+    visas: 163
+  ready:
+    cases: 304
+    visas: 630
+  refused:
+    cases: 36
+    visas: 44
+  transit: 0
+  total:
+    cases: 472
+    visas: 840
+  quota_percentage: "97.22%"
+- label: "SA"
+  quota: 1620
+  ap:
+    cases: 1
+    visas: 1
+  issued:
+    cases: 256
+    visas: 459
+  ready:
+    cases: 382
+    visas: 860
+  refused:
+    cases: 20
+    visas: 28
+  transit: 1
+  total:
+    cases: 660
+    visas: 1349
+  quota_percentage: "83.27%"
+- label: "Total"
+  quota: 54000
+  ap:
+    cases: 69
+    visas: 98
+  issued:
+    cases: 2563
+    visas: 4354
+  ready:
+    cases: 3303
+    visas: 7205
+  refused:
+    cases: 638
+    visas: 989
+  transit: 17
+  total:
+    cases: 6590
+    visas: 12663
+  quota_percentage: "23.45%"
+updated_date: "July 26, 2021 @ 10:51 PDT"
