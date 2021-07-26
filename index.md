@@ -1,4 +1,4 @@
-## DV2021 Daily Visa Statistics
+## DV2021 Daily Visa Statistics Summary Table
 
 ```markdown
 Last updated on {{ site.data.stats.updated_date }}
