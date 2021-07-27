@@ -73,7 +73,7 @@ Congratulations to everyone who received their 2NL!!!
 {% if site.data.stats.accepted.size > 0 %}
 ## Accepted cases by consular post
 
-The following summarizes the posts that have accepted cases today.
+The following table summarizes the posts that have accepted cases **today**.
 
 Region |                Country              |  Cases |  Visas
 -------|-------------------------------------|--------|-------
