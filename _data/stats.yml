@@ -133,7 +133,7 @@ summary:
     cases: 6593
     visas: 12671
   quota_percentage: "23.46%"
-updated_date: "July 27, 2021 @ 10:36 PDT"
+updated_date: "July 27, 2021 @ 10:47 PDT"
 "2nl":
   af: 1
   as: 1
@@ -791,6 +791,18 @@ country_stats:
     refusedCases: 0
     totalVisas: 1
     totalCases: 1
+  - post: "Total"
+    country: null
+    issuedVisas: 1736
+    issuedCases: 1135
+    apVisas: 47
+    apCases: 29
+    readyVisas: 2514
+    readyCases: 1195
+    refusedVisas: 476
+    refusedCases: 323
+    totalVisas: 4773
+    totalCases: 2682
   as:
   - post: "KDU"
     country: " Kathmandu, Nepal"
@@ -1404,6 +1416,18 @@ country_stats:
     refusedCases: 0
     totalVisas: 1
     totalCases: 1
+  - post: "Total"
+    country: null
+    issuedVisas: 624
+    issuedCases: 326
+    apVisas: 25
+    apCases: 16
+    readyVisas: 1356
+    readyCases: 640
+    refusedVisas: 185
+    refusedCases: 120
+    totalVisas: 2190
+    totalCases: 1102
   eu:
   - post: "KEV"
     country: " Kyiv, Ukraine"
@@ -2041,9 +2065,33 @@ country_stats:
     refusedCases: 0
     totalVisas: 1
     totalCases: 1
+  - post: "Total"
+    country: null
+    issuedVisas: 1415
+    issuedCases: 746
+    apVisas: 10
+    apCases: 8
+    readyVisas: 1787
+    readyCases: 746
+    refusedVisas: 270
+    refusedCases: 151
+    totalVisas: 3482
+    totalCases: 1651
   na:
   - post: "NSS"
     country: " Nassau, Bahamas"
+    issuedVisas: 14
+    issuedCases: 7
+    apVisas: 0
+    apCases: 0
+    readyVisas: 4
+    readyCases: 1
+    refusedVisas: 0
+    refusedCases: 0
+    totalVisas: 18
+    totalCases: 8
+  - post: "Total"
+    country: null
     issuedVisas: 14
     issuedCases: 7
     apVisas: 0
@@ -2319,6 +2367,18 @@ country_stats:
     refusedCases: 0
     totalVisas: 1
     totalCases: 1
+  - post: "Total"
+    country: null
+    issuedVisas: 165
+    issuedCases: 131
+    apVisas: 5
+    apCases: 3
+    readyVisas: 617
+    readyCases: 300
+    refusedVisas: 53
+    refusedCases: 38
+    totalVisas: 840
+    totalCases: 472
   sa:
   - post: "GEO"
     country: " Georgetown, Guyana"
@@ -2608,3 +2668,15 @@ country_stats:
     refusedCases: 0
     totalVisas: 1
     totalCases: 1
+  - post: "Total"
+    country: null
+    issuedVisas: 459
+    issuedCases: 256
+    apVisas: 6
+    apCases: 3
+    readyVisas: 856
+    readyCases: 380
+    refusedVisas: 28
+    refusedCases: 20
+    totalVisas: 1349
+    totalCases: 659
