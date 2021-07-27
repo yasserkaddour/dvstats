@@ -16,7 +16,7 @@ The **Regional Quota** represents number of visas. The cases in **Transit** repr
 
 ## Second Notification Letters (2NLs)
 
-These are the second letter notifications for each region:
+These are the second notification letters sent out for each region:
 
 {% if site.data.stats.2nl.af == 0 %}
 - There are no new 2NLs for the AF region today.
@@ -83,8 +83,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
  **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{% assign cases = site.data.stats.country_stats.af.size | minus: 1 %}
-{{ cases }} consular posts have accepted cases for the AF region.
+{% assign posts = site.data.stats.country_stats.af.size | minus: 1 %}
+{{ posts }} consular posts have accepted cases for the AF region.
 
 #### Asia (AS) region
 
@@ -94,8 +94,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{% assign cases = site.data.stats.country_stats.as.size | minus: 1 %}
-{{ cases }} consular posts have accepted cases for the AS region.
+{% assign posts = site.data.stats.country_stats.as.size | minus: 1 %}
+{{ posts }} consular posts have accepted cases for the AS region.
 
 #### Europe (EU) region
 
@@ -105,8 +105,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{% assign cases = site.data.stats.country_stats.eu.size | minus: 1 %}
-{{ cases }} consular posts have accepted cases for the EU region.
+{% assign posts = site.data.stats.country_stats.eu.size | minus: 1 %}
+{{ posts }} consular posts have accepted cases for the EU region.
 
 #### North America (NA) region
 
@@ -116,8 +116,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{% assign cases = site.data.stats.country_stats.na.size | minus: 1 %}
-{{ cases }} consular post has accepted cases for the NA region.
+{% assign posts = site.data.stats.country_stats.na.size | minus: 1 %}
+{{ posts }} consular post has accepted cases for the NA region.
 
 #### Oceania (OC) region
 
@@ -127,8 +127,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{% assign cases = site.data.stats.country_stats.oc.size | minus: 1 %}
-{{ cases }} consular posts have accepted cases for the OC region.
+{% assign posts = site.data.stats.country_stats.oc.size | minus: 1 %}
+{{ posts }} consular posts have accepted cases for the OC region.
 
 #### South America (SA) region
 
@@ -138,5 +138,5 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{% assign cases = site.data.stats.country_stats.sa.size | minus: 1 %}
-{{ cases }} consular posts have accepted cases for the SA region.
+{% assign posts = site.data.stats.country_stats.sa.size | minus: 1 %}
+{{ posts }} consular posts have accepted cases for the SA region.
