@@ -3,22 +3,22 @@ summary:
 - label: "AF"
   quota: 23328
   ap:
-    cases: 29
-    visas: 47
+    cases: 35
+    visas: 50
   issued:
-    cases: 1135
-    visas: 1736
+    cases: 1143
+    visas: 1747
   ready:
-    cases: 1195
-    visas: 2514
+    cases: 1181
+    visas: 2500
   refused:
     cases: 323
     visas: 476
-  transit: 10
+  transit: 11
   total:
-    cases: 2692
-    visas: 4783
-  quota_percentage: "20.50%"
+    cases: 2693
+    visas: 4784
+  quota_percentage: "20.51%"
 - label: "AS"
   quota: 8424
   ap:
@@ -117,25 +117,25 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 58
-    visas: 89
+    cases: 64
+    visas: 92
   issued:
-    cases: 2604
-    visas: 4421
+    cases: 2612
+    visas: 4432
   ready:
-    cases: 3262
-    visas: 7140
+    cases: 3248
+    visas: 7126
   refused:
     cases: 651
     visas: 1009
-  transit: 18
+  transit: 19
   total:
-    cases: 6593
-    visas: 12677
+    cases: 6594
+    visas: 12678
   quota_percentage: "23.48%"
-updated_date: "July 27, 2021 @ 13:24 PDT"
+updated_date: "July 27, 2021 @ 14:48 PDT"
 "2nl":
-  af: 1
+  af: 2
   as: 1
   eu: 0
   na: 0
@@ -769,10 +769,10 @@ country_stats:
     totalCases: 328
   - post: "YDE"
     country: " Yaounde, Cameroon"
-    issuedVisas: 273
-    issuedCases: 173
-    apVisas: 20
-    apCases: 12
+    issuedVisas: 284
+    issuedCases: 181
+    apVisas: 9
+    apCases: 4
     readyVisas: 327
     readyCases: 136
     refusedVisas: 151
@@ -783,22 +783,22 @@ country_stats:
     country: " Casablanca, Morocco"
     issuedVisas: 372
     issuedCases: 298
-    apVisas: 2
-    apCases: 2
-    readyVisas: 426
-    readyCases: 309
+    apVisas: 16
+    apCases: 16
+    readyVisas: 412
+    readyCases: 295
     refusedVisas: 10
     refusedCases: 10
     totalVisas: 810
     totalCases: 619
   - post: "Total"
     country: null
-    issuedVisas: 1736
-    issuedCases: 1135
-    apVisas: 47
-    apCases: 29
-    readyVisas: 2514
-    readyCases: 1195
+    issuedVisas: 1747
+    issuedCases: 1143
+    apVisas: 50
+    apCases: 35
+    readyVisas: 2500
+    readyCases: 1181
     refusedVisas: 476
     refusedCases: 323
     totalVisas: 4773
@@ -2680,3 +2680,8 @@ country_stats:
     refusedCases: 19
     totalVisas: 1356
     totalCases: 660
+accepted:
+- region: "SA"
+  country: " Buenos Aires, Argentina"
+  cases: 1
+  visas: 5
