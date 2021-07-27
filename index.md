@@ -70,7 +70,7 @@ These are the second letter notifications for each region:
 Congratulations to everyone who received their 2NL!!!
 {% endif %}
 
-## Statistics per consulate
+## Statistics per consular post
 
 The following tables show statistics per consular post. There is one summary table
 per region.

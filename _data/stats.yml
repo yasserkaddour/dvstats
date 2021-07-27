@@ -47,11 +47,11 @@ summary:
     cases: 746
     visas: 1415
   ready:
-    cases: 745
-    visas: 1786
+    cases: 746
+    visas: 1787
   refused:
-    cases: 152
-    visas: 271
+    cases: 151
+    visas: 270
   transit: 0
   total:
     cases: 1651
@@ -123,17 +123,17 @@ summary:
     cases: 2601
     visas: 4413
   ready:
-    cases: 3261
-    visas: 7133
+    cases: 3262
+    visas: 7134
   refused:
-    cases: 653
-    visas: 1013
+    cases: 652
+    visas: 1012
   transit: 19
   total:
     cases: 6593
     visas: 12671
   quota_percentage: "23.46%"
-updated_date: "July 27, 2021 @ 10:19 PDT"
+updated_date: "July 27, 2021 @ 10:36 PDT"
 "2nl":
   af: 1
   as: 1
@@ -1555,10 +1555,10 @@ country_stats:
     issuedCases: 18
     apVisas: 0
     apCases: 0
-    readyVisas: 13
-    readyCases: 6
-    refusedVisas: 3
-    refusedCases: 3
+    readyVisas: 14
+    readyCases: 7
+    refusedVisas: 2
+    refusedCases: 2
     totalVisas: 55
     totalCases: 27
   - post: "SOF"
