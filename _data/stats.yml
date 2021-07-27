@@ -3,60 +3,60 @@ summary:
 - label: "AF"
   quota: 23328
   ap:
-    cases: 40
-    visas: 60
+    cases: 30
+    visas: 48
   issued:
-    cases: 1118
-    visas: 1714
+    cases: 1134
+    visas: 1735
   ready:
-    cases: 1212
-    visas: 2533
+    cases: 1195
+    visas: 2514
   refused:
-    cases: 312
-    visas: 465
-  transit: 9
+    cases: 323
+    visas: 476
+  transit: 10
   total:
-    cases: 2691
-    visas: 4781
-  quota_percentage: "20.49%"
+    cases: 2692
+    visas: 4783
+  quota_percentage: "20.50%"
 - label: "AS"
   quota: 8424
   ap:
-    cases: 15
-    visas: 19
+    cases: 16
+    visas: 25
   issued:
-    cases: 323
-    visas: 621
+    cases: 326
+    visas: 624
   ready:
-    cases: 646
-    visas: 1368
+    cases: 640
+    visas: 1356
   refused:
-    cases: 118
-    visas: 180
+    cases: 120
+    visas: 185
   transit: 7
   total:
     cases: 1109
-    visas: 2195
-  quota_percentage: "26.06%"
+    visas: 2197
+  quota_percentage: "26.08%"
 - label: "EU"
   quota: 19764
   ap:
-    cases: 10
-    visas: 18
+    cases: 8
+    visas: 10
   issued:
-    cases: 731
-    visas: 1384
+    cases: 746
+    visas: 1415
   ready:
-    cases: 756
-    visas: 1805
+    cases: 745
+    visas: 1786
   refused:
-    cases: 153
-    visas: 273
+    cases: 152
+    visas: 271
   transit: 0
   total:
-    cases: 1650
-    visas: 3480
-  quota_percentage: "17.61%"
+    cases: 1651
+    visas: 3482
+  quota_percentage: "17.62%"
 - label: "NA"
   quota: 20
   ap:
@@ -80,16 +80,16 @@ summary:
   quota: 864
   ap:
     cases: 3
-    visas: 3
+    visas: 5
   issued:
-    cases: 129
-    visas: 163
+    cases: 131
+    visas: 165
   ready:
-    cases: 303
-    visas: 625
+    cases: 300
+    visas: 617
   refused:
-    cases: 37
-    visas: 49
+    cases: 38
+    visas: 53
   transit: 0
   total:
     cases: 472
@@ -98,44 +98,44 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 2
-    visas: 3
+    cases: 3
+    visas: 6
   issued:
     cases: 256
     visas: 459
   ready:
-    cases: 381
-    visas: 858
+    cases: 380
+    visas: 856
   refused:
     cases: 20
     visas: 28
   transit: 1
   total:
     cases: 660
-    visas: 1349
-  quota_percentage: "83.27%"
+    visas: 1350
+  quota_percentage: "83.33%"
 - label: "Total"
   quota: 54000
   ap:
-    cases: 70
-    visas: 103
+    cases: 60
+    visas: 94
   issued:
-    cases: 2564
-    visas: 4355
+    cases: 2600
+    visas: 4412
   ready:
-    cases: 3299
-    visas: 7193
+    cases: 3261
+    visas: 7133
   refused:
-    cases: 640
-    visas: 995
-  transit: 17
+    cases: 653
+    visas: 1013
+  transit: 18
   total:
-    cases: 6590
-    visas: 12663
-  quota_percentage: "23.45%"
-updated_date: "July 26, 2021 @ 15:13 PDT"
+    cases: 6592
+    visas: 12670
+  quota_percentage: "23.46%"
+updated_date: "July 27, 2021 @ 07:50 PDT"
 "2nl":
-  af: 0
+  af: 1
   as: 0
   eu: 0
   na: 0
