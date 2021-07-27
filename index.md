@@ -12,7 +12,8 @@ Region | AP      | Issued      | Ready       | Refused   | Transit | Total      
 
 When the field has two lines, the first line represents the number of cases, and the second line
 represents the number of visas. Values for number of visas are displayed in **bold** font.
-The **Regional Quota** represents number of visas. The cases in **Transit** represents the number of cases.
+The **Regional Quota** represents number of visas allocated for each region.
+The number in the **Transit** column represent the number of cases.
 
 ## Second Notification Letters (2NLs)
 
@@ -73,7 +74,7 @@ Congratulations to everyone who received their 2NL!!!
 {% if site.data.stats.accepted.size > 0 %}
 ## Accepted cases by consular post
 
-The following table summarizes the posts that have accepted cases **today**.
+The following table summarizes the consular posts that have accepted cases **today**.
 
 Region |                Country              |  Cases |  Visas
 -------|-------------------------------------|--------|-------
