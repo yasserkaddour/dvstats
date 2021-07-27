@@ -83,7 +83,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
  **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{{ site.data.stats.country_stats.af.size }} consular posts have accepted cases for the AF region.
+{% assign cases = site.data.stats.country_stats.af.size | minus: 1 %}
+{{ cases }} consular posts have accepted cases for the AF region.
 
 #### Asia (AS) region
 
@@ -93,7 +94,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{{ site.data.stats.country_stats.as.size }} consular posts have accepted cases for the AS region.
+{% assign cases = site.data.stats.country_stats.as.size | minus: 1 %}
+{{ cases }} consular posts have accepted cases for the AS region.
 
 #### Europe (EU) region
 
@@ -103,7 +105,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{{ site.data.stats.country_stats.eu.size }} consular posts have accepted cases for the EU region.
+{% assign cases = site.data.stats.country_stats.eu.size | minus: 1 %}
+{{ cases }} consular posts have accepted cases for the EU region.
 
 #### North America (NA) region
 
@@ -113,7 +116,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{{ site.data.stats.country_stats.na.size }} consular post has accepted cases for the NA region.
+{% assign cases = site.data.stats.country_stats.na.size | minus: 1 %}
+{{ cases }} consular post has accepted cases for the NA region.
 
 #### Oceania (OC) region
 
@@ -123,7 +127,8 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{{ site.data.stats.country_stats.oc.size }} consular posts have accepted cases for the OC region.
+{% assign cases = site.data.stats.country_stats.oc.size | minus: 1 %}
+{{ cases }} consular posts have accepted cases for the OC region.
 
 #### South America (SA) region
 
@@ -133,4 +138,5 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 **{{ country.post }}** | {{ country.country }} | {{ country.issuedCases }} <br /> **{{ country.issuedVisas }}** | {{ country.apCases }} <br /> **{{ country.apVisas }}** | {{ country.readyCases }} <br /> **{{ country.readyVisas }}** | {{ country.refusedCases }} <br /> **{{ country.refusedVisas }}** | {{ country.totalCases }} <br /> **{{ country.totalVisas }}**
 {% endfor %}
 
-{{ site.data.stats.country_stats.sa.size }} consular posts have accepted cases for the SA region.
+{% assign cases = site.data.stats.country_stats.sa.size | minus: 1 %}
+{{ cases }} consular posts have accepted cases for the SA region.
