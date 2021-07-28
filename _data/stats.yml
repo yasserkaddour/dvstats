@@ -3,17 +3,17 @@ summary:
 - label: "AF"
   quota: 23310
   ap:
-    cases: 13
-    visas: 24
+    cases: 25
+    visas: 37
   issued:
     cases: 1176
     visas: 1790
   ready:
-    cases: 1180
-    visas: 2515
+    cases: 1167
+    visas: 2501
   refused:
-    cases: 322
-    visas: 474
+    cases: 323
+    visas: 475
   transit: 2
   total:
     cases: 2693
@@ -98,42 +98,42 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 1
-    visas: 1
+    cases: 3
+    visas: 8
   issued:
     cases: 261
     visas: 470
   ready:
-    cases: 380
-    visas: 862
+    cases: 378
+    visas: 855
   refused:
     cases: 18
-    visas: 23
+    visas: 24
   transit: 0
   total:
     cases: 660
-    visas: 1356
-  quota_percentage: "83.70%"
+    visas: 1357
+  quota_percentage: "83.77%"
 - label: "Total"
   quota: 54000
   ap:
-    cases: 38
-    visas: 66
+    cases: 52
+    visas: 86
   issued:
     cases: 2670
     visas: 4510
   ready:
-    cases: 3229
-    visas: 7111
+    cases: 3214
+    visas: 7090
   refused:
-    cases: 650
-    visas: 1013
+    cases: 651
+    visas: 1015
   transit: 7
   total:
     cases: 6594
-    visas: 12707
+    visas: 12708
   quota_percentage: "23.53%"
-updated_date: "2021-07-28T15:08:25.269Z"
+updated_date: "2021-07-28T16:58:09.269Z"
 "2nl":
   af: 0
   as: 0
@@ -147,10 +147,10 @@ country_stats:
     country: " Casablanca, Morocco"
     issuedVisas: 388
     issuedCases: 314
-    apVisas: 0
-    apCases: 0
-    readyVisas: 412
-    readyCases: 295
+    apVisas: 13
+    apCases: 12
+    readyVisas: 399
+    readyCases: 283
     refusedVisas: 10
     refusedCases: 10
     totalVisas: 810
@@ -257,10 +257,10 @@ country_stats:
     issuedCases: 25
     apVisas: 2
     apCases: 2
-    readyVisas: 78
-    readyCases: 35
-    refusedVisas: 20
-    refusedCases: 15
+    readyVisas: 77
+    readyCases: 34
+    refusedVisas: 21
+    refusedCases: 16
     totalVisas: 130
     totalCases: 77
   - post: "JHN"
@@ -795,12 +795,12 @@ country_stats:
     country: null
     issuedVisas: 1790
     issuedCases: 1176
-    apVisas: 24
-    apCases: 13
-    readyVisas: 2515
-    readyCases: 1180
-    refusedVisas: 474
-    refusedCases: 322
+    apVisas: 37
+    apCases: 25
+    readyVisas: 2501
+    readyCases: 1167
+    refusedVisas: 475
+    refusedCases: 323
     totalVisas: 4803
     totalCases: 2691
   as:
@@ -2410,11 +2410,11 @@ country_stats:
     issuedCases: 2
     apVisas: 0
     apCases: 0
-    readyVisas: 163
+    readyVisas: 164
     readyCases: 88
     refusedVisas: 1
     refusedCases: 1
-    totalVisas: 166
+    totalVisas: 167
     totalCases: 91
   - post: "BNS"
     country: " Buenos Aires, Argentina"
@@ -2432,11 +2432,11 @@ country_stats:
     country: " Guayaquil, Ecuador"
     issuedVisas: 12
     issuedCases: 8
-    apVisas: 0
-    apCases: 0
-    readyVisas: 93
-    readyCases: 34
-    refusedVisas: 1
+    apVisas: 7
+    apCases: 2
+    readyVisas: 85
+    readyCases: 32
+    refusedVisas: 2
     refusedCases: 1
     totalVisas: 106
     totalCases: 43
@@ -2672,13 +2672,13 @@ country_stats:
     country: null
     issuedVisas: 470
     issuedCases: 261
-    apVisas: 1
-    apCases: 1
-    readyVisas: 862
-    readyCases: 380
-    refusedVisas: 23
+    apVisas: 8
+    apCases: 3
+    readyVisas: 855
+    readyCases: 378
+    refusedVisas: 24
     refusedCases: 18
-    totalVisas: 1356
+    totalVisas: 1357
     totalCases: 660
 accepted:
 - region: "AF"
