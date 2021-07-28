@@ -98,14 +98,14 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 3
-    visas: 8
+    cases: 4
+    visas: 12
   issued:
     cases: 261
     visas: 470
   ready:
-    cases: 378
-    visas: 855
+    cases: 377
+    visas: 851
   refused:
     cases: 18
     visas: 24
@@ -117,14 +117,14 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 52
-    visas: 86
+    cases: 53
+    visas: 90
   issued:
     cases: 2672
     visas: 4514
   ready:
-    cases: 3210
-    visas: 7083
+    cases: 3209
+    visas: 7079
   refused:
     cases: 653
     visas: 1018
@@ -133,7 +133,7 @@ summary:
     cases: 6594
     visas: 12708
   quota_percentage: "23.53%"
-updated_date: "2021-07-28T19:33:30.362Z"
+updated_date: "2021-07-28T21:22:13.777Z"
 "2nl":
   af: 0
   as: 0
@@ -2432,10 +2432,10 @@ country_stats:
     country: " Guayaquil, Ecuador"
     issuedVisas: 12
     issuedCases: 8
-    apVisas: 7
-    apCases: 2
-    readyVisas: 85
-    readyCases: 32
+    apVisas: 11
+    apCases: 3
+    readyVisas: 81
+    readyCases: 31
     refusedVisas: 2
     refusedCases: 1
     totalVisas: 106
@@ -2672,10 +2672,10 @@ country_stats:
     country: null
     issuedVisas: 470
     issuedCases: 261
-    apVisas: 8
-    apCases: 3
-    readyVisas: 855
-    readyCases: 378
+    apVisas: 12
+    apCases: 4
+    readyVisas: 851
+    readyCases: 377
     refusedVisas: 24
     refusedCases: 18
     totalVisas: 1357
