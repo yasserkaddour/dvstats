@@ -1,7 +1,15 @@
+---
+pageScript: |
+  var el = document.querySelector('div#updated_date').nextElementSibling.querySelector('span.gs');
+  var m = moment(el.innerHTML.replaceAll('*', ''));
+  el.innerHTML = m.format('LLL');
+---
+
 ## DV2021 Daily Visa Statistics Summary Table
 
+<div id="updated_date"></div>
 ```markdown
-Last updated on {{ site.data.stats.updated_date }}
+Last updated on **{{ site.data.stats.updated_date }}**
 ```
 
 Region | AP      | Issued      | Ready       | Refused   | Transit | Total       | Regional<br />Quota | %2NL

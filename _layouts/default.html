@@ -25,6 +25,17 @@
     </footer>
 </section>
 
+<script src="/assets/js/moment.min.js"></script>
+<script>
+  function getElementByXpath(path) {
+    return document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+  }
+</script>
+{% if page.pageScript %}
+<script>
+    {{ page.pageScript }}
+</script>
+{% endif %}
 {% if site.google_analytics %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
