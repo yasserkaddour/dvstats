@@ -1,7 +1,7 @@
 ---
 summary:
 - label: "AF"
-  quota: 23328
+  quota: 23310
   ap:
     cases: 35
     visas: 50
@@ -18,7 +18,7 @@ summary:
   total:
     cases: 2693
     visas: 4784
-  quota_percentage: "20.51%"
+  quota_percentage: "20.52%"
 - label: "AS"
   quota: 8424
   ap:
@@ -58,7 +58,7 @@ summary:
     visas: 3482
   quota_percentage: "17.62%"
 - label: "NA"
-  quota: 20
+  quota: 18
   ap:
     cases: 0
     visas: 0
@@ -75,7 +75,7 @@ summary:
   total:
     cases: 8
     visas: 18
-  quota_percentage: "90.00%"
+  quota_percentage: "100.00%"
 - label: "OC"
   quota: 864
   ap:
@@ -133,7 +133,7 @@ summary:
     cases: 6594
     visas: 12678
   quota_percentage: "23.48%"
-updated_date: "July 27, 2021 @ 14:54 PDT"
+updated_date: "July 27, 2021 @ 17:59 PDT"
 "2nl":
   af: 2
   as: 1
