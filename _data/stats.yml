@@ -6,14 +6,14 @@ summary:
     cases: 25
     visas: 37
   issued:
-    cases: 1176
-    visas: 1790
+    cases: 1178
+    visas: 1794
   ready:
-    cases: 1167
-    visas: 2501
+    cases: 1163
+    visas: 2494
   refused:
-    cases: 323
-    visas: 475
+    cases: 325
+    visas: 478
   transit: 2
   total:
     cases: 2693
@@ -120,20 +120,20 @@ summary:
     cases: 52
     visas: 86
   issued:
-    cases: 2670
-    visas: 4510
+    cases: 2672
+    visas: 4514
   ready:
-    cases: 3214
-    visas: 7090
+    cases: 3210
+    visas: 7083
   refused:
-    cases: 651
-    visas: 1015
+    cases: 653
+    visas: 1018
   transit: 7
   total:
     cases: 6594
     visas: 12708
   quota_percentage: "23.53%"
-updated_date: "2021-07-28T18:35:38.654Z"
+updated_date: "2021-07-28T19:33:30.362Z"
 "2nl":
   af: 0
   as: 0
@@ -147,20 +147,20 @@ country_stats:
     country: " Casablanca, Morocco"
     issuedVisas: 388
     issuedCases: 314
-    apVisas: 13
-    apCases: 12
-    readyVisas: 399
-    readyCases: 283
+    apVisas: 14
+    apCases: 13
+    readyVisas: 398
+    readyCases: 282
     refusedVisas: 10
     refusedCases: 10
     totalVisas: 810
     totalCases: 619
   - post: "YDE"
     country: " Yaounde, Cameroon"
-    issuedVisas: 288
-    issuedCases: 182
-    apVisas: 5
-    apCases: 3
+    issuedVisas: 292
+    issuedCases: 184
+    apVisas: 1
+    apCases: 1
     readyVisas: 327
     readyCases: 136
     refusedVisas: 151
@@ -293,10 +293,10 @@ country_stats:
     issuedCases: 34
     apVisas: 0
     apCases: 0
-    readyVisas: 31
-    readyCases: 21
-    refusedVisas: 6
-    refusedCases: 6
+    readyVisas: 29
+    readyCases: 19
+    refusedVisas: 8
+    refusedCases: 8
     totalVisas: 78
     totalCases: 61
   - post: "ABD"
@@ -435,11 +435,11 @@ country_stats:
     country: " Monrovia, Liberia"
     issuedVisas: 6
     issuedCases: 6
-    apVisas: 0
-    apCases: 0
-    readyVisas: 13
-    readyCases: 4
-    refusedVisas: 6
+    apVisas: 3
+    apCases: 1
+    readyVisas: 9
+    readyCases: 3
+    refusedVisas: 7
     refusedCases: 3
     totalVisas: 25
     totalCases: 13
@@ -793,14 +793,14 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 1790
-    issuedCases: 1176
+    issuedVisas: 1794
+    issuedCases: 1178
     apVisas: 37
     apCases: 25
-    readyVisas: 2501
-    readyCases: 1167
-    refusedVisas: 475
-    refusedCases: 323
+    readyVisas: 2494
+    readyCases: 1163
+    refusedVisas: 478
+    refusedCases: 325
     totalVisas: 4803
     totalCases: 2691
   as:
