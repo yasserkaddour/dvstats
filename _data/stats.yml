@@ -47,15 +47,15 @@ summary:
     cases: 762
     visas: 1438
   ready:
-    cases: 733
-    visas: 1761
+    cases: 734
+    visas: 1762
   refused:
     cases: 151
     visas: 272
   transit: 47
   total:
-    cases: 1698
-    visas: 3531
+    cases: 1699
+    visas: 3532
   quota_percentage: "17.87%"
 - label: "NA"
   quota: 18
@@ -79,14 +79,14 @@ summary:
 - label: "OC"
   quota: 864
   ap:
-    cases: 5
-    visas: 9
+    cases: 4
+    visas: 8
   issued:
-    cases: 134
-    visas: 168
+    cases: 137
+    visas: 173
   ready:
-    cases: 289
-    visas: 603
+    cases: 287
+    visas: 599
   refused:
     cases: 44
     visas: 60
@@ -98,11 +98,11 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 7
-    visas: 22
+    cases: 6
+    visas: 18
   issued:
-    cases: 263
-    visas: 472
+    cases: 264
+    visas: 476
   ready:
     cases: 373
     visas: 838
@@ -117,23 +117,23 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 44
-    visas: 95
+    cases: 42
+    visas: 90
   issued:
-    cases: 2732
-    visas: 4606
+    cases: 2736
+    visas: 4615
   ready:
-    cases: 3159
-    visas: 6984
+    cases: 3158
+    visas: 6981
   refused:
     cases: 654
     visas: 1024
   transit: 78
   total:
-    cases: 6667
-    visas: 12787
+    cases: 6668
+    visas: 12788
   quota_percentage: "23.68%"
-updated_date: "2021-07-29T19:22:07.214Z"
+updated_date: "2021-07-29T22:49:10.057Z"
 "2nl":
   af: 4
   as: 20
@@ -2065,18 +2065,30 @@ country_stats:
     refusedCases: 0
     totalVisas: 1
     totalCases: 1
+  - post: "TKY"
+    country: " Tokyo, Japan"
+    issuedVisas: 0
+    issuedCases: 0
+    apVisas: 0
+    apCases: 0
+    readyVisas: 1
+    readyCases: 1
+    refusedVisas: 0
+    refusedCases: 0
+    totalVisas: 1
+    totalCases: 1
   - post: "Total"
     country: null
     issuedVisas: 1438
     issuedCases: 762
     apVisas: 13
     apCases: 5
-    readyVisas: 1761
-    readyCases: 733
+    readyVisas: 1762
+    readyCases: 734
     refusedVisas: 272
     refusedCases: 151
-    totalVisas: 3484
-    totalCases: 1651
+    totalVisas: 3485
+    totalCases: 1652
   na:
   - post: "NSS"
     country: " Nassau, Bahamas"
@@ -2129,12 +2141,12 @@ country_stats:
     totalCases: 160
   - post: "ACK"
     country: " Auckland, New Zealand"
-    issuedVisas: 57
-    issuedCases: 49
-    apVisas: 4
-    apCases: 2
-    readyVisas: 86
-    readyCases: 38
+    issuedVisas: 62
+    issuedCases: 52
+    apVisas: 3
+    apCases: 1
+    readyVisas: 82
+    readyCases: 36
     refusedVisas: 10
     refusedCases: 3
     totalVisas: 157
@@ -2369,12 +2381,12 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 168
-    issuedCases: 134
-    apVisas: 9
-    apCases: 5
-    readyVisas: 603
-    readyCases: 289
+    issuedVisas: 173
+    issuedCases: 137
+    apVisas: 8
+    apCases: 4
+    readyVisas: 599
+    readyCases: 287
     refusedVisas: 60
     refusedCases: 44
     totalVisas: 840
@@ -2418,10 +2430,10 @@ country_stats:
     totalCases: 91
   - post: "BNS"
     country: " Buenos Aires, Argentina"
-    issuedVisas: 29
-    issuedCases: 25
-    apVisas: 4
-    apCases: 1
+    issuedVisas: 33
+    issuedCases: 26
+    apVisas: 0
+    apCases: 0
     readyVisas: 74
     readyCases: 24
     refusedVisas: 1
@@ -2670,10 +2682,10 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 472
-    issuedCases: 263
-    apVisas: 22
-    apCases: 7
+    issuedVisas: 476
+    issuedCases: 264
+    apVisas: 18
+    apCases: 6
     readyVisas: 838
     readyCases: 373
     refusedVisas: 23
