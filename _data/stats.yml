@@ -105,15 +105,15 @@ summary:
     visas: 470
   ready:
     cases: 377
-    visas: 851
+    visas: 848
   refused:
     cases: 18
     visas: 24
   transit: 0
   total:
     cases: 660
-    visas: 1357
-  quota_percentage: "83.77%"
+    visas: 1354
+  quota_percentage: "83.58%"
 - label: "Total"
   quota: 54000
   ap:
@@ -124,16 +124,16 @@ summary:
     visas: 4514
   ready:
     cases: 3209
-    visas: 7079
+    visas: 7076
   refused:
     cases: 653
     visas: 1018
   transit: 7
   total:
     cases: 6594
-    visas: 12708
+    visas: 12705
   quota_percentage: "23.53%"
-updated_date: "2021-07-28T21:22:13.777Z"
+updated_date: "2021-07-29T00:20:18.668Z"
 "2nl":
   af: 0
   as: 0
@@ -2434,11 +2434,11 @@ country_stats:
     issuedCases: 8
     apVisas: 11
     apCases: 3
-    readyVisas: 81
+    readyVisas: 78
     readyCases: 31
     refusedVisas: 2
     refusedCases: 1
-    totalVisas: 106
+    totalVisas: 103
     totalCases: 43
   - post: "SNT"
     country: " Santiago, Chile"
@@ -2674,11 +2674,11 @@ country_stats:
     issuedCases: 261
     apVisas: 12
     apCases: 4
-    readyVisas: 851
+    readyVisas: 848
     readyCases: 377
     refusedVisas: 24
     refusedCases: 18
-    totalVisas: 1357
+    totalVisas: 1354
     totalCases: 660
 accepted:
 - region: "AF"
