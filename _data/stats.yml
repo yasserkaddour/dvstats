@@ -29,15 +29,15 @@ summary:
     visas: 643
   ready:
     cases: 639
-    visas: 1354
+    visas: 1356
   refused:
     cases: 111
     visas: 172
   transit: 5
   total:
     cases: 1110
-    visas: 2204
-  quota_percentage: "26.16%"
+    visas: 2206
+  quota_percentage: "26.19%"
 - label: "EU"
   quota: 19764
   ap:
@@ -85,11 +85,11 @@ summary:
     cases: 132
     visas: 166
   ready:
-    cases: 294
-    visas: 610
+    cases: 293
+    visas: 609
   refused:
-    cases: 44
-    visas: 60
+    cases: 45
+    visas: 61
   transit: 0
   total:
     cases: 472
@@ -123,17 +123,17 @@ summary:
     cases: 2672
     visas: 4514
   ready:
-    cases: 3209
-    visas: 7076
+    cases: 3208
+    visas: 7077
   refused:
-    cases: 653
-    visas: 1018
+    cases: 654
+    visas: 1019
   transit: 7
   total:
     cases: 6594
-    visas: 12705
+    visas: 12707
   quota_percentage: "23.53%"
-updated_date: "2021-07-29T00:20:18.668Z"
+updated_date: "2021-07-29T03:18:28.788Z"
 "2nl":
   af: 0
   as: 0
@@ -810,11 +810,11 @@ country_stats:
     issuedCases: 55
     apVisas: 0
     apCases: 0
-    readyVisas: 543
+    readyVisas: 545
     readyCases: 297
     refusedVisas: 7
     refusedCases: 6
-    totalVisas: 647
+    totalVisas: 649
     totalCases: 358
   - post: "CLM"
     country: " Colombo, Sri Lanka"
@@ -1422,11 +1422,11 @@ country_stats:
     issuedCases: 339
     apVisas: 30
     apCases: 16
-    readyVisas: 1354
+    readyVisas: 1356
     readyCases: 639
     refusedVisas: 172
     refusedCases: 111
-    totalVisas: 2199
+    totalVisas: 2201
     totalCases: 1105
   eu:
   - post: "KEV"
@@ -2109,10 +2109,10 @@ country_stats:
     issuedCases: 19
     apVisas: 0
     apCases: 0
-    readyVisas: 356
-    readyCases: 152
-    refusedVisas: 9
-    refusedCases: 7
+    readyVisas: 355
+    readyCases: 151
+    refusedVisas: 10
+    refusedCases: 8
     totalVisas: 388
     totalCases: 178
   - post: "SYD"
@@ -2373,10 +2373,10 @@ country_stats:
     issuedCases: 132
     apVisas: 4
     apCases: 2
-    readyVisas: 610
-    readyCases: 294
-    refusedVisas: 60
-    refusedCases: 44
+    readyVisas: 609
+    readyCases: 293
+    refusedVisas: 61
+    refusedCases: 45
     totalVisas: 840
     totalCases: 472
   sa:
