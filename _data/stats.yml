@@ -98,42 +98,42 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 6
-    visas: 18
+    cases: 7
+    visas: 22
   issued:
     cases: 263
     visas: 472
   ready:
-    cases: 374
-    visas: 841
+    cases: 373
+    visas: 838
   refused:
     cases: 17
     visas: 23
   transit: 0
   total:
     cases: 660
-    visas: 1354
-  quota_percentage: "83.58%"
+    visas: 1355
+  quota_percentage: "83.64%"
 - label: "Total"
   quota: 54000
   ap:
-    cases: 43
-    visas: 91
+    cases: 44
+    visas: 95
   issued:
     cases: 2732
     visas: 4606
   ready:
-    cases: 3160
-    visas: 6987
+    cases: 3159
+    visas: 6984
   refused:
     cases: 654
     visas: 1024
   transit: 78
   total:
     cases: 6667
-    visas: 12786
+    visas: 12787
   quota_percentage: "23.68%"
-updated_date: "2021-07-29T18:20:24.781Z"
+updated_date: "2021-07-29T19:22:07.214Z"
 "2nl":
   af: 4
   as: 20
@@ -2410,20 +2410,20 @@ country_stats:
     issuedCases: 2
     apVisas: 0
     apCases: 0
-    readyVisas: 164
+    readyVisas: 165
     readyCases: 88
     refusedVisas: 1
     refusedCases: 1
-    totalVisas: 167
+    totalVisas: 168
     totalCases: 91
   - post: "BNS"
     country: " Buenos Aires, Argentina"
     issuedVisas: 29
     issuedCases: 25
-    apVisas: 0
-    apCases: 0
-    readyVisas: 78
-    readyCases: 25
+    apVisas: 4
+    apCases: 1
+    readyVisas: 74
+    readyCases: 24
     refusedVisas: 1
     refusedCases: 1
     totalVisas: 108
@@ -2672,13 +2672,13 @@ country_stats:
     country: null
     issuedVisas: 472
     issuedCases: 263
-    apVisas: 18
-    apCases: 6
-    readyVisas: 841
-    readyCases: 374
+    apVisas: 22
+    apCases: 7
+    readyVisas: 838
+    readyCases: 373
     refusedVisas: 23
     refusedCases: 17
-    totalVisas: 1354
+    totalVisas: 1355
     totalCases: 660
 accepted:
 - region: "AF"
