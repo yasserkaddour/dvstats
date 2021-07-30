@@ -3,21 +3,21 @@ summary:
 - label: "AF"
   quota: 23310
   ap:
-    cases: 23
-    visas: 35
+    cases: 24
+    visas: 36
   issued:
     cases: 1210
     visas: 1841
   ready:
-    cases: 1118
-    visas: 2437
+    cases: 1117
+    visas: 2436
   refused:
     cases: 344
     visas: 499
-  transit: 3
+  transit: 4
   total:
-    cases: 2698
-    visas: 4815
+    cases: 2699
+    visas: 4816
   quota_percentage: "20.66%"
 - label: "AS"
   quota: 8424
@@ -28,16 +28,16 @@ summary:
     cases: 360
     visas: 677
   ready:
-    cases: 642
-    visas: 1348
+    cases: 641
+    visas: 1346
   refused:
-    cases: 111
-    visas: 180
-  transit: 45
+    cases: 112
+    visas: 182
+  transit: 53
   total:
-    cases: 1165
-    visas: 2274
-  quota_percentage: "26.99%"
+    cases: 1173
+    visas: 2282
+  quota_percentage: "27.09%"
 - label: "EU"
   quota: 19764
   ap:
@@ -98,17 +98,17 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 8
-    visas: 22
+    cases: 6
+    visas: 9
   issued:
-    cases: 264
-    visas: 476
+    cases: 269
+    visas: 493
   ready:
-    cases: 371
-    visas: 834
+    cases: 369
+    visas: 831
   refused:
-    cases: 17
-    visas: 23
+    cases: 16
+    visas: 22
   transit: 0
   total:
     cases: 660
@@ -117,26 +117,26 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 42
-    visas: 89
+    cases: 41
+    visas: 77
   issued:
-    cases: 2768
-    visas: 4676
+    cases: 2773
+    visas: 4693
   ready:
-    cases: 3174
-    visas: 7076
+    cases: 3170
+    visas: 7070
   refused:
     cases: 669
-    visas: 1041
-  transit: 53
+    visas: 1042
+  transit: 62
   total:
-    cases: 6706
-    visas: 12935
-  quota_percentage: "23.95%"
-updated_date: "2021-07-30T16:15:28.138Z"
+    cases: 6715
+    visas: 12944
+  quota_percentage: "23.97%"
+updated_date: "2021-07-30T17:51:56.353Z"
 "2nl":
-  af: 0
-  as: 35
+  af: 1
+  as: 43
   eu: 3
   na: 0
   oc: 0
@@ -147,10 +147,10 @@ country_stats:
     country: " Casablanca, Morocco"
     issuedVisas: 404
     issuedCases: 329
-    apVisas: 2
-    apCases: 2
-    readyVisas: 394
-    readyCases: 278
+    apVisas: 3
+    apCases: 3
+    readyVisas: 393
+    readyCases: 277
     refusedVisas: 10
     refusedCases: 10
     totalVisas: 810
@@ -807,10 +807,10 @@ country_stats:
     country: null
     issuedVisas: 1841
     issuedCases: 1210
-    apVisas: 35
-    apCases: 23
-    readyVisas: 2437
-    readyCases: 1118
+    apVisas: 36
+    apCases: 24
+    readyVisas: 2436
+    readyCases: 1117
     refusedVisas: 499
     refusedCases: 344
     totalVisas: 4812
@@ -1158,10 +1158,10 @@ country_stats:
     issuedCases: 0
     apVisas: 0
     apCases: 0
-    readyVisas: 6
-    readyCases: 1
-    refusedVisas: 1
-    refusedCases: 1
+    readyVisas: 4
+    readyCases: 0
+    refusedVisas: 3
+    refusedCases: 2
     totalVisas: 7
     totalCases: 2
   - post: "SEO"
@@ -1446,10 +1446,10 @@ country_stats:
     issuedCases: 360
     apVisas: 24
     apCases: 7
-    readyVisas: 1348
-    readyCases: 642
-    refusedVisas: 180
-    refusedCases: 111
+    readyVisas: 1346
+    readyCases: 641
+    refusedVisas: 182
+    refusedCases: 112
     totalVisas: 2229
     totalCases: 1120
   eu:
@@ -2430,14 +2430,14 @@ country_stats:
   sa:
   - post: "GEO"
     country: " Georgetown, Guyana"
-    issuedVisas: 175
-    issuedCases: 105
+    issuedVisas: 178
+    issuedCases: 106
     apVisas: 3
-    apCases: 1
-    readyVisas: 213
-    readyCases: 77
-    refusedVisas: 5
-    refusedCases: 5
+    apCases: 2
+    readyVisas: 211
+    readyCases: 76
+    refusedVisas: 4
+    refusedCases: 4
     totalVisas: 396
     totalCases: 188
   - post: "LMA"
@@ -2456,10 +2456,10 @@ country_stats:
     country: " Bogota, Colombia"
     issuedVisas: 2
     issuedCases: 2
-    apVisas: 1
-    apCases: 1
-    readyVisas: 165
-    readyCases: 88
+    apVisas: 2
+    apCases: 2
+    readyVisas: 164
+    readyCases: 87
     refusedVisas: 0
     refusedCases: 0
     totalVisas: 168
@@ -2478,10 +2478,10 @@ country_stats:
     totalCases: 51
   - post: "GYQ"
     country: " Guayaquil, Ecuador"
-    issuedVisas: 12
-    issuedCases: 8
-    apVisas: 17
-    apCases: 5
+    issuedVisas: 26
+    issuedCases: 12
+    apVisas: 3
+    apCases: 1
     readyVisas: 71
     readyCases: 28
     refusedVisas: 3
@@ -2718,14 +2718,14 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 476
-    issuedCases: 264
-    apVisas: 22
-    apCases: 8
-    readyVisas: 834
-    readyCases: 371
-    refusedVisas: 23
-    refusedCases: 17
+    issuedVisas: 493
+    issuedCases: 269
+    apVisas: 9
+    apCases: 6
+    readyVisas: 831
+    readyCases: 369
+    refusedVisas: 22
+    refusedCases: 16
     totalVisas: 1355
     totalCases: 660
 accepted:
