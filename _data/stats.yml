@@ -42,21 +42,21 @@ summary:
   quota: 19764
   ap:
     cases: 3
-    visas: 4
+    visas: 5
   issued:
-    cases: 783
-    visas: 1483
+    cases: 785
+    visas: 1485
   ready:
     cases: 757
-    visas: 1860
+    visas: 1859
   refused:
-    cases: 155
-    visas: 281
-  transit: 1
+    cases: 153
+    visas: 279
+  transit: 4
   total:
-    cases: 1699
-    visas: 3629
-  quota_percentage: "18.36%"
+    cases: 1702
+    visas: 3632
+  quota_percentage: "18.38%"
 - label: "NA"
   quota: 18
   ap:
@@ -118,26 +118,26 @@ summary:
   quota: 54000
   ap:
     cases: 42
-    visas: 88
+    visas: 89
   issued:
-    cases: 2766
-    visas: 4674
+    cases: 2768
+    visas: 4676
   ready:
     cases: 3174
-    visas: 7077
+    visas: 7076
   refused:
-    cases: 671
-    visas: 1043
-  transit: 50
+    cases: 669
+    visas: 1041
+  transit: 53
   total:
-    cases: 6703
-    visas: 12932
+    cases: 6706
+    visas: 12935
   quota_percentage: "23.95%"
-updated_date: "2021-07-30T15:26:46.969Z"
+updated_date: "2021-07-30T16:15:28.138Z"
 "2nl":
   af: 0
   as: 35
-  eu: 0
+  eu: 3
   na: 0
   oc: 0
   sa: 0
@@ -1531,10 +1531,10 @@ country_stats:
     issuedCases: 30
     apVisas: 0
     apCases: 0
-    readyVisas: 70
-    readyCases: 28
-    refusedVisas: 36
-    refusedCases: 15
+    readyVisas: 71
+    readyCases: 29
+    refusedVisas: 35
+    refusedCases: 14
     totalVisas: 172
     totalCases: 73
   - post: "BCH"
@@ -1551,14 +1551,14 @@ country_stats:
     totalCases: 63
   - post: "FRN"
     country: " Frankfurt, Germany"
-    issuedVisas: 24
-    issuedCases: 15
-    apVisas: 1
-    apCases: 1
+    issuedVisas: 26
+    issuedCases: 17
+    apVisas: 0
+    apCases: 0
     readyVisas: 44
     readyCases: 16
-    refusedVisas: 9
-    refusedCases: 7
+    refusedVisas: 8
+    refusedCases: 6
     totalVisas: 78
     totalCases: 39
   - post: "NPL"
@@ -1601,10 +1601,10 @@ country_stats:
     country: " Skopje, Macedonia"
     issuedVisas: 39
     issuedCases: 18
-    apVisas: 1
-    apCases: 1
-    readyVisas: 13
-    readyCases: 6
+    apVisas: 3
+    apCases: 2
+    readyVisas: 11
+    readyCases: 5
     refusedVisas: 2
     refusedCases: 2
     totalVisas: 55
@@ -2115,14 +2115,14 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 1483
-    issuedCases: 783
-    apVisas: 4
+    issuedVisas: 1485
+    issuedCases: 785
+    apVisas: 5
     apCases: 3
-    readyVisas: 1860
+    readyVisas: 1859
     readyCases: 757
-    refusedVisas: 281
-    refusedCases: 155
+    refusedVisas: 279
+    refusedCases: 153
     totalVisas: 3628
     totalCases: 1698
   na:
