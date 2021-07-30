@@ -13,3 +13,7 @@ github_username:  frankgh
 theme: jekyll-theme-cayman
 
 google_analytics: G-WHHWSQVF0D
+
+url: "https://frankgh.github.io/dvstats/"
+plugins:
+  - jekyll-sitemap

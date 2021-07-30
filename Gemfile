@@ -29,5 +29,4 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-# Multi-language support
-gem 'jekyll-multiple-languages-plugin', "~> 1.6.0"
+gem 'jekyll-sitemap', "~> 1.4.0"
