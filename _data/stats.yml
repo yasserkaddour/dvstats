@@ -98,14 +98,14 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 6
-    visas: 18
+    cases: 8
+    visas: 22
   issued:
     cases: 264
     visas: 476
   ready:
-    cases: 373
-    visas: 838
+    cases: 371
+    visas: 834
   refused:
     cases: 17
     visas: 23
@@ -117,14 +117,14 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 40
-    visas: 84
+    cases: 42
+    visas: 88
   issued:
     cases: 2766
     visas: 4674
   ready:
-    cases: 3176
-    visas: 7081
+    cases: 3174
+    visas: 7077
   refused:
     cases: 671
     visas: 1043
@@ -133,7 +133,7 @@ summary:
     cases: 6703
     visas: 12932
   quota_percentage: "23.95%"
-updated_date: "2021-07-30T13:21:35.935Z"
+updated_date: "2021-07-30T15:26:46.969Z"
 "2nl":
   af: 0
   as: 35
@@ -2432,12 +2432,12 @@ country_stats:
     country: " Georgetown, Guyana"
     issuedVisas: 175
     issuedCases: 105
-    apVisas: 0
-    apCases: 0
-    readyVisas: 217
-    readyCases: 79
-    refusedVisas: 4
-    refusedCases: 4
+    apVisas: 3
+    apCases: 1
+    readyVisas: 213
+    readyCases: 77
+    refusedVisas: 5
+    refusedCases: 5
     totalVisas: 396
     totalCases: 188
   - post: "LMA"
@@ -2456,12 +2456,12 @@ country_stats:
     country: " Bogota, Colombia"
     issuedVisas: 2
     issuedCases: 2
-    apVisas: 0
-    apCases: 0
+    apVisas: 1
+    apCases: 1
     readyVisas: 165
     readyCases: 88
-    refusedVisas: 1
-    refusedCases: 1
+    refusedVisas: 0
+    refusedCases: 0
     totalVisas: 168
     totalCases: 91
   - post: "BNS"
@@ -2720,10 +2720,10 @@ country_stats:
     country: null
     issuedVisas: 476
     issuedCases: 264
-    apVisas: 18
-    apCases: 6
-    readyVisas: 838
-    readyCases: 373
+    apVisas: 22
+    apCases: 8
+    readyVisas: 834
+    readyCases: 371
     refusedVisas: 23
     refusedCases: 17
     totalVisas: 1355
