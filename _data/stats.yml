@@ -133,11 +133,11 @@ summary:
     cases: 6716
     visas: 12944
   quota_percentage: "23.97%"
-updated_date: "2021-07-30T22:51:16.59Z"
+updated_date: "2021-07-31T21:19:32.542Z"
 "2nl":
-  af: 1
-  as: 44
-  eu: 3
+  af: 0
+  as: 0
+  eu: 0
   na: 0
   oc: 0
   sa: 0
@@ -2728,28 +2728,4 @@ country_stats:
     refusedCases: 16
     totalVisas: 1354
     totalCases: 660
-accepted:
-- region: "EU"
-  country: " Tbilisi, Georgia"
-  cases: 32
-  visas: 102
-- region: "AS"
-  country: " Tokyo, Japan"
-  cases: 12
-  visas: 17
-- region: "EU"
-  country: " Chisinau, Moldova"
-  cases: 10
-  visas: 35
-- region: "EU"
-  country: " Stockholm, Sweden"
-  cases: 4
-  visas: 6
-- region: "AS"
-  country: " Stockholm, Sweden"
-  cases: 3
-  visas: 6
-- region: "AF"
-  country: " Stockholm, Sweden"
-  cases: 2
-  visas: 2
+accepted: null
