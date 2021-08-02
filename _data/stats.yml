@@ -98,42 +98,42 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 17
+    cases: 18
     visas: 25
   issued:
-    cases: 272
-    visas: 497
+    cases: 273
+    visas: 500
   ready:
-    cases: 346
-    visas: 797
+    cases: 345
+    visas: 798
   refused:
-    cases: 25
-    visas: 35
+    cases: 24
+    visas: 33
   transit: 0
   total:
     cases: 660
-    visas: 1354
-  quota_percentage: "83.58%"
+    visas: 1356
+  quota_percentage: "83.70%"
 - label: "Total"
   quota: 54000
   ap:
-    cases: 84
+    cases: 85
     visas: 162
   issued:
-    cases: 2805
-    visas: 4746
+    cases: 2806
+    visas: 4749
   ready:
-    cases: 3055
-    visas: 6884
+    cases: 3054
+    visas: 6885
   refused:
-    cases: 722
-    visas: 1121
+    cases: 721
+    visas: 1119
   transit: 66
   total:
     cases: 6732
-    visas: 12979
+    visas: 12981
   quota_percentage: "24.04%"
-updated_date: "2021-08-02T17:53:57.902Z"
+updated_date: "2021-08-02T22:50:29.209Z"
 "2nl":
   af: 0
   as: 15
@@ -2456,13 +2456,13 @@ country_stats:
     country: " Bogota, Colombia"
     issuedVisas: 2
     issuedCases: 2
-    apVisas: 22
-    apCases: 16
-    readyVisas: 131
+    apVisas: 24
+    apCases: 17
+    readyVisas: 132
     readyCases: 64
-    refusedVisas: 13
-    refusedCases: 9
-    totalVisas: 168
+    refusedVisas: 11
+    refusedCases: 8
+    totalVisas: 169
     totalCases: 91
   - post: "BNS"
     country: " Buenos Aires, Argentina"
@@ -2478,15 +2478,15 @@ country_stats:
     totalCases: 51
   - post: "GYQ"
     country: " Guayaquil, Ecuador"
-    issuedVisas: 26
-    issuedCases: 12
-    apVisas: 3
+    issuedVisas: 29
+    issuedCases: 13
+    apVisas: 1
     apCases: 1
     readyVisas: 71
-    readyCases: 28
+    readyCases: 27
     refusedVisas: 3
     refusedCases: 2
-    totalVisas: 103
+    totalVisas: 104
     totalCases: 43
   - post: "SNT"
     country: " Santiago, Chile"
@@ -2718,15 +2718,15 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 497
-    issuedCases: 272
+    issuedVisas: 500
+    issuedCases: 273
     apVisas: 25
-    apCases: 17
-    readyVisas: 797
-    readyCases: 346
-    refusedVisas: 35
-    refusedCases: 25
-    totalVisas: 1354
+    apCases: 18
+    readyVisas: 798
+    readyCases: 345
+    refusedVisas: 33
+    refusedCases: 24
+    totalVisas: 1356
     totalCases: 660
 accepted:
 - region: "AS"
