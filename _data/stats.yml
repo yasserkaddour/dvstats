@@ -3,17 +3,17 @@ summary:
 - label: "AF"
   quota: 23310
   ap:
-    cases: 8
-    visas: 15
+    cases: 13
+    visas: 28
   issued:
-    cases: 1255
-    visas: 1917
+    cases: 1256
+    visas: 1918
   ready:
-    cases: 1040
-    visas: 2327
+    cases: 1035
+    visas: 2319
   refused:
-    cases: 394
-    visas: 558
+    cases: 393
+    visas: 552
   transit: 150
   total:
     cases: 2847
@@ -22,36 +22,36 @@ summary:
 - label: "AS"
   quota: 8424
   ap:
-    cases: 65
-    visas: 117
+    cases: 64
+    visas: 116
   issued:
-    cases: 406
-    visas: 760
+    cases: 407
+    visas: 761
   ready:
     cases: 567
     visas: 1266
   refused:
     cases: 141
     visas: 235
-  transit: 30
+  transit: 77
   total:
-    cases: 1209
-    visas: 2408
-  quota_percentage: "28.58%"
+    cases: 1256
+    visas: 2455
+  quota_percentage: "29.14%"
 - label: "EU"
   quota: 19764
   ap:
-    cases: 13
-    visas: 33
+    cases: 10
+    visas: 32
   issued:
-    cases: 812
-    visas: 1539
+    cases: 817
+    visas: 1550
   ready:
-    cases: 715
-    visas: 1777
+    cases: 714
+    visas: 1774
   refused:
-    cases: 164
-    visas: 296
+    cases: 163
+    visas: 289
   transit: 11
   total:
     cases: 1715
@@ -98,17 +98,17 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 25
-    visas: 45
+    cases: 17
+    visas: 32
   issued:
-    cases: 293
-    visas: 528
+    cases: 311
+    visas: 558
   ready:
-    cases: 304
-    visas: 729
+    cases: 290
+    visas: 705
   refused:
-    cases: 38
-    visas: 54
+    cases: 42
+    visas: 61
   transit: 0
   total:
     cases: 660
@@ -117,26 +117,26 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 113
-    visas: 216
+    cases: 106
+    visas: 214
   issued:
-    cases: 2919
-    visas: 4952
+    cases: 2944
+    visas: 4995
   ready:
-    cases: 2901
-    visas: 6676
+    cases: 2881
+    visas: 6641
   refused:
-    cases: 787
-    visas: 1210
-  transit: 192
+    cases: 789
+    visas: 1204
+  transit: 239
   total:
-    cases: 6912
-    visas: 13246
-  quota_percentage: "24.53%"
-updated_date: "2021-08-04T13:20:17.791Z"
+    cases: 6959
+    visas: 13293
+  quota_percentage: "24.62%"
+updated_date: "2021-08-04T17:51:44.998Z"
 "2nl":
   af: 0
-  as: 0
+  as: 47
   eu: 0
   na: 0
   oc: 0
@@ -157,10 +157,10 @@ country_stats:
     totalCases: 619
   - post: "YDE"
     country: " Yaounde, Cameroon"
-    issuedVisas: 311
-    issuedCases: 196
-    apVisas: 6
-    apCases: 3
+    issuedVisas: 312
+    issuedCases: 197
+    apVisas: 5
+    apCases: 2
     readyVisas: 297
     readyCases: 113
     refusedVisas: 162
@@ -171,12 +171,12 @@ country_stats:
     country: " Kinshasa, Democratic Republic of the Congo"
     issuedVisas: 55
     issuedCases: 38
-    apVisas: 5
-    apCases: 1
-    readyVisas: 517
+    apVisas: 14
+    apCases: 3
+    readyVisas: 515
     readyCases: 203
-    refusedVisas: 110
-    refusedCases: 86
+    refusedVisas: 103
+    refusedCases: 84
     totalVisas: 687
     totalCases: 328
   - post: "NRB"
@@ -195,12 +195,12 @@ country_stats:
     country: " Algiers, Algeria "
     issuedVisas: 200
     issuedCases: 134
-    apVisas: 0
-    apCases: 0
+    apVisas: 1
+    apCases: 1
     readyVisas: 137
     readyCases: 73
-    refusedVisas: 9
-    refusedCases: 8
+    refusedVisas: 8
+    refusedCases: 7
     totalVisas: 346
     totalCases: 215
   - post: "LOM"
@@ -221,20 +221,20 @@ country_stats:
     issuedCases: 22
     apVisas: 0
     apCases: 0
-    readyVisas: 142
-    readyCases: 26
-    refusedVisas: 24
-    refusedCases: 21
+    readyVisas: 141
+    readyCases: 25
+    refusedVisas: 25
+    refusedCases: 22
     totalVisas: 190
     totalCases: 69
   - post: "KGL"
     country: " Kigali, Rwanda"
     issuedVisas: 26
     issuedCases: 18
-    apVisas: 0
-    apCases: 0
-    readyVisas: 109
-    readyCases: 52
+    apVisas: 1
+    apCases: 1
+    readyVisas: 108
+    readyCases: 51
     refusedVisas: 1
     refusedCases: 1
     totalVisas: 136
@@ -267,10 +267,10 @@ country_stats:
     country: " Johannesburg, South Africa"
     issuedVisas: 58
     issuedCases: 23
-    apVisas: 0
-    apCases: 0
-    readyVisas: 34
-    readyCases: 8
+    apVisas: 2
+    apCases: 1
+    readyVisas: 32
+    readyCases: 7
     refusedVisas: 14
     refusedCases: 11
     totalVisas: 106
@@ -449,10 +449,10 @@ country_stats:
     issuedCases: 4
     apVisas: 0
     apCases: 0
-    readyVisas: 9
-    readyCases: 4
-    refusedVisas: 3
-    refusedCases: 1
+    readyVisas: 8
+    readyCases: 3
+    refusedVisas: 4
+    refusedCases: 2
     totalVisas: 24
     totalCases: 9
   - post: "LUA"
@@ -461,10 +461,10 @@ country_stats:
     issuedCases: 3
     apVisas: 0
     apCases: 0
-    readyVisas: 15
-    readyCases: 4
-    refusedVisas: 4
-    refusedCases: 4
+    readyVisas: 14
+    readyCases: 3
+    refusedVisas: 5
+    refusedCases: 5
     totalVisas: 24
     totalCases: 11
   - post: "DRS"
@@ -639,12 +639,12 @@ country_stats:
     country: " Brussels, Belgium"
     issuedVisas: 2
     issuedCases: 2
-    apVisas: 0
-    apCases: 0
+    apVisas: 1
+    apCases: 1
     readyVisas: 1
     readyCases: 0
-    refusedVisas: 1
-    refusedCases: 1
+    refusedVisas: 0
+    refusedCases: 0
     totalVisas: 4
     totalCases: 3
   - post: "LIB"
@@ -805,14 +805,14 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 1917
-    issuedCases: 1255
-    apVisas: 15
-    apCases: 8
-    readyVisas: 2327
-    readyCases: 1040
-    refusedVisas: 558
-    refusedCases: 394
+    issuedVisas: 1918
+    issuedCases: 1256
+    apVisas: 28
+    apCases: 13
+    readyVisas: 2319
+    readyCases: 1035
+    refusedVisas: 552
+    refusedCases: 393
     totalVisas: 4817
     totalCases: 2697
   as:
@@ -1250,10 +1250,10 @@ country_stats:
     totalCases: 1
   - post: "BGT"
     country: " Bogota, Colombia"
-    issuedVisas: 0
-    issuedCases: 0
-    apVisas: 1
-    apCases: 1
+    issuedVisas: 1
+    issuedCases: 1
+    apVisas: 0
+    apCases: 0
     readyVisas: 1
     readyCases: 0
     refusedVisas: 0
@@ -1454,10 +1454,10 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 760
-    issuedCases: 406
-    apVisas: 117
-    apCases: 65
+    issuedVisas: 761
+    issuedCases: 407
+    apVisas: 116
+    apCases: 64
     readyVisas: 1266
     readyCases: 567
     refusedVisas: 235
@@ -1539,14 +1539,14 @@ country_stats:
     totalCases: 121
   - post: "CHS"
     country: " Chisinau, Moldova"
-    issuedVisas: 67
-    issuedCases: 31
-    apVisas: 4
-    apCases: 2
-    readyVisas: 73
-    readyCases: 29
-    refusedVisas: 28
-    refusedCases: 11
+    issuedVisas: 74
+    issuedCases: 34
+    apVisas: 7
+    apCases: 1
+    readyVisas: 70
+    readyCases: 28
+    refusedVisas: 21
+    refusedCases: 10
     totalVisas: 172
     totalCases: 73
   - post: "BCH"
@@ -1599,10 +1599,10 @@ country_stats:
     totalCases: 32
   - post: "TIA"
     country: " Tirana, Albania"
-    issuedVisas: 27
-    issuedCases: 26
-    apVisas: 2
-    apCases: 1
+    issuedVisas: 29
+    issuedCases: 27
+    apVisas: 0
+    apCases: 0
     readyVisas: 28
     readyCases: 15
     refusedVisas: 2
@@ -1635,10 +1635,10 @@ country_stats:
     totalCases: 24
   - post: "PRS"
     country: " Paris, France"
-    issuedVisas: 19
-    issuedCases: 13
-    apVisas: 2
-    apCases: 1
+    issuedVisas: 21
+    issuedCases: 14
+    apVisas: 0
+    apCases: 0
     readyVisas: 16
     readyCases: 4
     refusedVisas: 5
@@ -2139,14 +2139,14 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 1539
-    issuedCases: 812
-    apVisas: 33
-    apCases: 13
-    readyVisas: 1777
-    readyCases: 715
-    refusedVisas: 296
-    refusedCases: 164
+    issuedVisas: 1550
+    issuedCases: 817
+    apVisas: 32
+    apCases: 10
+    readyVisas: 1774
+    readyCases: 714
+    refusedVisas: 289
+    refusedCases: 163
     totalVisas: 3645
     totalCases: 1704
   na:
@@ -2454,10 +2454,10 @@ country_stats:
   sa:
   - post: "GEO"
     country: " Georgetown, Guyana"
-    issuedVisas: 181
-    issuedCases: 108
-    apVisas: 2
-    apCases: 1
+    issuedVisas: 183
+    issuedCases: 109
+    apVisas: 0
+    apCases: 0
     readyVisas: 207
     readyCases: 73
     refusedVisas: 6
@@ -2466,34 +2466,34 @@ country_stats:
     totalCases: 188
   - post: "LMA"
     country: " Lima, Peru"
-    issuedVisas: 38
-    issuedCases: 24
-    apVisas: 8
-    apCases: 4
-    readyVisas: 250
+    issuedVisas: 48
+    issuedCases: 29
+    apVisas: 1
+    apCases: 1
+    readyVisas: 249
     readyCases: 127
-    refusedVisas: 5
-    refusedCases: 5
+    refusedVisas: 3
+    refusedCases: 3
     totalVisas: 301
     totalCases: 160
   - post: "BGT"
     country: " Bogota, Colombia"
-    issuedVisas: 27
-    issuedCases: 20
-    apVisas: 18
-    apCases: 14
-    readyVisas: 98
-    readyCases: 41
-    refusedVisas: 26
-    refusedCases: 16
+    issuedVisas: 39
+    issuedCases: 30
+    apVisas: 10
+    apCases: 7
+    readyVisas: 87
+    readyCases: 32
+    refusedVisas: 33
+    refusedCases: 22
     totalVisas: 169
     totalCases: 91
   - post: "BNS"
     country: " Buenos Aires, Argentina"
-    issuedVisas: 33
-    issuedCases: 26
-    apVisas: 6
-    apCases: 2
+    issuedVisas: 39
+    issuedCases: 28
+    apVisas: 0
+    apCases: 0
     readyVisas: 67
     readyCases: 21
     refusedVisas: 2
@@ -2504,12 +2504,12 @@ country_stats:
     country: " Guayaquil, Ecuador"
     issuedVisas: 32
     issuedCases: 15
-    apVisas: 9
-    apCases: 2
-    readyVisas: 59
-    readyCases: 23
-    refusedVisas: 4
-    refusedCases: 3
+    apVisas: 18
+    apCases: 6
+    readyVisas: 47
+    readyCases: 18
+    refusedVisas: 7
+    refusedCases: 4
     totalVisas: 104
     totalCases: 43
   - post: "SNT"
@@ -2518,10 +2518,10 @@ country_stats:
     issuedCases: 28
     apVisas: 0
     apCases: 0
-    readyVisas: 7
-    readyCases: 1
-    refusedVisas: 3
-    refusedCases: 1
+    readyVisas: 8
+    readyCases: 2
+    refusedVisas: 2
+    refusedCases: 0
     totalVisas: 77
     totalCases: 30
   - post: "CDJ"
@@ -2540,10 +2540,10 @@ country_stats:
     country: " Managua, Nicaragua"
     issuedVisas: 29
     issuedCases: 12
-    apVisas: 0
-    apCases: 0
-    readyVisas: 1
-    readyCases: 1
+    apVisas: 1
+    apCases: 1
+    readyVisas: 0
+    readyCases: 0
     refusedVisas: 0
     refusedCases: 0
     totalVisas: 30
@@ -2742,14 +2742,14 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 528
-    issuedCases: 293
-    apVisas: 45
-    apCases: 25
-    readyVisas: 729
-    readyCases: 304
-    refusedVisas: 54
-    refusedCases: 38
+    issuedVisas: 558
+    issuedCases: 311
+    apVisas: 32
+    apCases: 17
+    readyVisas: 705
+    readyCases: 290
+    refusedVisas: 61
+    refusedCases: 42
     totalVisas: 1356
     totalCases: 660
 accepted:
