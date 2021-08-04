@@ -79,11 +79,11 @@ summary:
 - label: "OC"
   quota: 864
   ap:
-    cases: 2
-    visas: 6
+    cases: 0
+    visas: 2
   issued:
-    cases: 146
-    visas: 194
+    cases: 148
+    visas: 198
   ready:
     cases: 274
     visas: 573
@@ -98,42 +98,42 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 17
-    visas: 32
+    cases: 33
+    visas: 60
   issued:
-    cases: 311
-    visas: 558
+    cases: 312
+    visas: 560
   ready:
-    cases: 290
-    visas: 705
+    cases: 353
+    visas: 845
   refused:
     cases: 42
     visas: 61
   transit: 0
   total:
-    cases: 660
-    visas: 1356
-  quota_percentage: "83.70%"
+    cases: 740
+    visas: 1526
+  quota_percentage: "94.20%"
 - label: "Total"
   quota: 54000
   ap:
-    cases: 106
-    visas: 214
+    cases: 120
+    visas: 238
   issued:
-    cases: 2944
-    visas: 4995
+    cases: 2947
+    visas: 5001
   ready:
-    cases: 2881
-    visas: 6641
+    cases: 2944
+    visas: 6781
   refused:
     cases: 789
     visas: 1204
   transit: 239
   total:
-    cases: 6959
-    visas: 13293
-  quota_percentage: "24.62%"
-updated_date: "2021-08-04T17:51:44.998Z"
+    cases: 7039
+    visas: 13463
+  quota_percentage: "24.93%"
+updated_date: "2021-08-04T22:50:18.078Z"
 "2nl":
   af: 0
   as: 47
@@ -2201,10 +2201,10 @@ country_stats:
     totalCases: 160
   - post: "ACK"
     country: " Auckland, New Zealand"
-    issuedVisas: 71
-    issuedCases: 54
-    apVisas: 6
-    apCases: 2
+    issuedVisas: 75
+    issuedCases: 56
+    apVisas: 2
+    apCases: 0
     readyVisas: 68
     readyCases: 31
     refusedVisas: 12
@@ -2441,10 +2441,10 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 194
-    issuedCases: 146
-    apVisas: 6
-    apCases: 2
+    issuedVisas: 198
+    issuedCases: 148
+    apVisas: 2
+    apCases: 0
     readyVisas: 573
     readyCases: 274
     refusedVisas: 67
@@ -2452,6 +2452,18 @@ country_stats:
     totalVisas: 840
     totalCases: 472
   sa:
+  - post: "LMA"
+    country: " Lima, Peru"
+    issuedVisas: 48
+    issuedCases: 29
+    apVisas: 1
+    apCases: 1
+    readyVisas: 419
+    readyCases: 207
+    refusedVisas: 3
+    refusedCases: 3
+    totalVisas: 471
+    totalCases: 240
   - post: "GEO"
     country: " Georgetown, Guyana"
     issuedVisas: 183
@@ -2464,26 +2476,14 @@ country_stats:
     refusedCases: 6
     totalVisas: 396
     totalCases: 188
-  - post: "LMA"
-    country: " Lima, Peru"
-    issuedVisas: 48
-    issuedCases: 29
-    apVisas: 1
-    apCases: 1
-    readyVisas: 249
-    readyCases: 127
-    refusedVisas: 3
-    refusedCases: 3
-    totalVisas: 301
-    totalCases: 160
   - post: "BGT"
     country: " Bogota, Colombia"
-    issuedVisas: 39
-    issuedCases: 30
-    apVisas: 10
-    apCases: 7
-    readyVisas: 87
-    readyCases: 32
+    issuedVisas: 41
+    issuedCases: 31
+    apVisas: 36
+    apCases: 22
+    readyVisas: 59
+    readyCases: 16
     refusedVisas: 33
     refusedCases: 22
     totalVisas: 169
@@ -2504,9 +2504,9 @@ country_stats:
     country: " Guayaquil, Ecuador"
     issuedVisas: 32
     issuedCases: 15
-    apVisas: 18
+    apVisas: 19
     apCases: 6
-    readyVisas: 47
+    readyVisas: 46
     readyCases: 18
     refusedVisas: 7
     refusedCases: 4
@@ -2516,10 +2516,10 @@ country_stats:
     country: " Santiago, Chile"
     issuedVisas: 67
     issuedCases: 28
-    apVisas: 0
-    apCases: 0
-    readyVisas: 8
-    readyCases: 2
+    apVisas: 1
+    apCases: 1
+    readyVisas: 7
+    readyCases: 1
     refusedVisas: 2
     refusedCases: 0
     totalVisas: 77
@@ -2742,16 +2742,16 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 558
-    issuedCases: 311
-    apVisas: 32
-    apCases: 17
-    readyVisas: 705
-    readyCases: 290
+    issuedVisas: 560
+    issuedCases: 312
+    apVisas: 60
+    apCases: 33
+    readyVisas: 845
+    readyCases: 353
     refusedVisas: 61
     refusedCases: 42
-    totalVisas: 1356
-    totalCases: 660
+    totalVisas: 1526
+    totalCases: 740
 accepted:
 - region: "AS"
   country: " Nassau, Bahamas"
