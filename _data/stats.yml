@@ -3,22 +3,22 @@ summary:
 - label: "AF"
   quota: 23310
   ap:
-    cases: 20
-    visas: 54
+    cases: 34
+    visas: 94
   issued:
-    cases: 1258
-    visas: 1923
+    cases: 1263
+    visas: 1932
   ready:
-    cases: 1167
-    visas: 2728
+    cases: 1148
+    visas: 2680
   refused:
     cases: 400
-    visas: 560
-  transit: 2
+    visas: 559
+  transit: 19
   total:
-    cases: 2847
-    visas: 5267
-  quota_percentage: "22.60%"
+    cases: 2864
+    visas: 5284
+  quota_percentage: "22.67%"
 - label: "AS"
   quota: 8424
   ap:
@@ -33,30 +33,30 @@ summary:
   refused:
     cases: 143
     visas: 238
-  transit: 69
+  transit: 85
   total:
-    cases: 1256
-    visas: 2460
-  quota_percentage: "29.20%"
+    cases: 1272
+    visas: 2476
+  quota_percentage: "29.39%"
 - label: "EU"
   quota: 19764
   ap:
-    cases: 21
-    visas: 40
+    cases: 25
+    visas: 54
   issued:
     cases: 830
     visas: 1581
   ready:
-    cases: 691
-    visas: 1735
+    cases: 685
+    visas: 1715
   refused:
-    cases: 162
-    visas: 289
-  transit: 11
+    cases: 164
+    visas: 295
+  transit: 29
   total:
-    cases: 1715
-    visas: 3656
-  quota_percentage: "18.50%"
+    cases: 1733
+    visas: 3674
+  quota_percentage: "18.59%"
 - label: "NA"
   quota: 18
   ap:
@@ -98,49 +98,49 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 33
-    visas: 60
+    cases: 34
+    visas: 67
   issued:
-    cases: 312
-    visas: 560
+    cases: 320
+    visas: 578
   ready:
-    cases: 353
-    visas: 845
+    cases: 340
+    visas: 814
   refused:
-    cases: 42
-    visas: 61
-  transit: 0
+    cases: 46
+    visas: 68
+  transit: 7
   total:
-    cases: 740
-    visas: 1526
-  quota_percentage: "94.20%"
+    cases: 747
+    visas: 1534
+  quota_percentage: "94.69%"
 - label: "Total"
   quota: 54000
   ap:
-    cases: 83
-    visas: 176
+    cases: 102
+    visas: 237
   issued:
-    cases: 3020
-    visas: 5136
+    cases: 3033
+    visas: 5163
   ready:
-    cases: 3054
-    visas: 7156
+    cases: 3016
+    visas: 7057
   refused:
-    cases: 798
-    visas: 1216
-  transit: 83
+    cases: 804
+    visas: 1228
+  transit: 141
   total:
-    cases: 7038
-    visas: 13767
-  quota_percentage: "25.49%"
-updated_date: "2021-08-05T13:20:06.282Z"
+    cases: 7096
+    visas: 13826
+  quota_percentage: "25.60%"
+updated_date: "2021-08-05T17:53:33.035Z"
 "2nl":
-  af: 0
-  as: 0
-  eu: 0
+  af: 17
+  as: 16
+  eu: 18
   na: 0
   oc: 0
-  sa: 0
+  sa: 7
 country_stats:
   af:
   - post: "KIN"
@@ -169,14 +169,14 @@ country_stats:
     totalCases: 619
   - post: "YDE"
     country: " Yaounde, Cameroon"
-    issuedVisas: 313
-    issuedCases: 197
-    apVisas: 4
-    apCases: 2
-    readyVisas: 297
+    issuedVisas: 315
+    issuedCases: 199
+    apVisas: 3
+    apCases: 1
+    readyVisas: 298
     readyCases: 113
-    refusedVisas: 162
-    refusedCases: 95
+    refusedVisas: 160
+    refusedCases: 94
     totalVisas: 776
     totalCases: 407
   - post: "NRB"
@@ -193,14 +193,14 @@ country_stats:
     totalCases: 188
   - post: "ALG"
     country: " Algiers, Algeria "
-    issuedVisas: 200
-    issuedCases: 134
-    apVisas: 16
-    apCases: 4
-    readyVisas: 122
-    readyCases: 70
-    refusedVisas: 8
-    refusedCases: 7
+    issuedVisas: 207
+    issuedCases: 137
+    apVisas: 19
+    apCases: 9
+    readyVisas: 111
+    readyCases: 61
+    refusedVisas: 9
+    refusedCases: 8
     totalVisas: 346
     totalCases: 215
   - post: "LOM"
@@ -219,12 +219,12 @@ country_stats:
     country: " Riyadh, Saudi Arabia"
     issuedVisas: 24
     issuedCases: 22
-    apVisas: 0
-    apCases: 0
-    readyVisas: 142
-    readyCases: 26
-    refusedVisas: 24
-    refusedCases: 21
+    apVisas: 29
+    apCases: 7
+    readyVisas: 114
+    readyCases: 20
+    refusedVisas: 23
+    refusedCases: 20
     totalVisas: 190
     totalCases: 69
   - post: "KGL"
@@ -267,10 +267,10 @@ country_stats:
     country: " Johannesburg, South Africa"
     issuedVisas: 61
     issuedCases: 24
-    apVisas: 0
-    apCases: 0
-    readyVisas: 29
-    readyCases: 5
+    apVisas: 2
+    apCases: 1
+    readyVisas: 27
+    readyCases: 4
     refusedVisas: 16
     refusedCases: 13
     totalVisas: 106
@@ -293,20 +293,20 @@ country_stats:
     issuedCases: 34
     apVisas: 0
     apCases: 0
-    readyVisas: 27
-    readyCases: 17
-    refusedVisas: 10
-    refusedCases: 10
+    readyVisas: 26
+    readyCases: 16
+    refusedVisas: 11
+    refusedCases: 11
     totalVisas: 78
     totalCases: 61
   - post: "TNS"
     country: " Tunis, Tunisia"
     issuedVisas: 45
     issuedCases: 15
-    apVisas: 0
-    apCases: 0
-    readyVisas: 20
-    readyCases: 6
+    apVisas: 7
+    apCases: 2
+    readyVisas: 13
+    readyCases: 4
     refusedVisas: 0
     refusedCases: 0
     totalVisas: 65
@@ -805,13 +805,13 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 1923
-    issuedCases: 1258
-    apVisas: 54
-    apCases: 20
-    readyVisas: 2728
-    readyCases: 1167
-    refusedVisas: 560
+    issuedVisas: 1932
+    issuedCases: 1263
+    apVisas: 94
+    apCases: 34
+    readyVisas: 2680
+    readyCases: 1148
+    refusedVisas: 559
     refusedCases: 400
     totalVisas: 5265
     totalCases: 2845
@@ -1469,10 +1469,10 @@ country_stats:
     country: " Kyiv, Ukraine"
     issuedVisas: 188
     issuedCases: 104
-    apVisas: 3
-    apCases: 2
-    readyVisas: 333
-    readyCases: 103
+    apVisas: 8
+    apCases: 3
+    readyVisas: 328
+    readyCases: 102
     refusedVisas: 52
     refusedCases: 30
     totalVisas: 576
@@ -1495,20 +1495,20 @@ country_stats:
     issuedCases: 119
     apVisas: 7
     apCases: 3
-    readyVisas: 202
-    readyCases: 71
-    refusedVisas: 26
-    refusedCases: 14
+    readyVisas: 199
+    readyCases: 70
+    refusedVisas: 29
+    refusedCases: 15
     totalVisas: 472
     totalCases: 207
   - post: "ANK"
     country: " Ankara, Turkey"
     issuedVisas: 25
     issuedCases: 15
-    apVisas: 17
-    apCases: 10
-    readyVisas: 351
-    readyCases: 198
+    apVisas: 18
+    apCases: 11
+    readyVisas: 350
+    readyCases: 197
     refusedVisas: 9
     refusedCases: 6
     totalVisas: 402
@@ -1553,12 +1553,12 @@ country_stats:
     country: " Bucharest, Romania"
     issuedVisas: 40
     issuedCases: 21
-    apVisas: 2
-    apCases: 1
-    readyVisas: 108
-    readyCases: 39
-    refusedVisas: 5
-    refusedCases: 3
+    apVisas: 10
+    apCases: 3
+    readyVisas: 97
+    readyCases: 36
+    refusedVisas: 8
+    refusedCases: 4
     totalVisas: 155
     totalCases: 64
   - post: "FRN"
@@ -2141,12 +2141,12 @@ country_stats:
     country: null
     issuedVisas: 1581
     issuedCases: 830
-    apVisas: 40
-    apCases: 21
-    readyVisas: 1735
-    readyCases: 691
-    refusedVisas: 289
-    refusedCases: 162
+    apVisas: 54
+    apCases: 25
+    readyVisas: 1715
+    readyCases: 685
+    refusedVisas: 295
+    refusedCases: 164
     totalVisas: 3645
     totalCases: 1704
   na:
@@ -2456,13 +2456,13 @@ country_stats:
     country: " Lima, Peru"
     issuedVisas: 48
     issuedCases: 29
-    apVisas: 1
-    apCases: 1
-    readyVisas: 419
-    readyCases: 207
-    refusedVisas: 3
-    refusedCases: 3
-    totalVisas: 471
+    apVisas: 12
+    apCases: 6
+    readyVisas: 407
+    readyCases: 201
+    refusedVisas: 5
+    refusedCases: 4
+    totalVisas: 472
     totalCases: 240
   - post: "GEO"
     country: " Georgetown, Guyana"
@@ -2492,24 +2492,24 @@ country_stats:
     country: " Buenos Aires, Argentina"
     issuedVisas: 39
     issuedCases: 28
-    apVisas: 0
-    apCases: 0
-    readyVisas: 67
-    readyCases: 21
-    refusedVisas: 2
-    refusedCases: 2
+    apVisas: 3
+    apCases: 1
+    readyVisas: 61
+    readyCases: 19
+    refusedVisas: 5
+    refusedCases: 3
     totalVisas: 108
     totalCases: 51
   - post: "GYQ"
     country: " Guayaquil, Ecuador"
-    issuedVisas: 32
-    issuedCases: 15
-    apVisas: 19
-    apCases: 6
-    readyVisas: 46
-    readyCases: 18
-    refusedVisas: 7
-    refusedCases: 4
+    issuedVisas: 47
+    issuedCases: 20
+    apVisas: 11
+    apCases: 3
+    readyVisas: 37
+    readyCases: 14
+    refusedVisas: 9
+    refusedCases: 6
     totalVisas: 104
     totalCases: 43
   - post: "SNT"
@@ -2538,10 +2538,10 @@ country_stats:
     totalCases: 12
   - post: "MNG"
     country: " Managua, Nicaragua"
-    issuedVisas: 29
-    issuedCases: 12
-    apVisas: 1
-    apCases: 1
+    issuedVisas: 30
+    issuedCases: 13
+    apVisas: 0
+    apCases: 0
     readyVisas: 0
     readyCases: 0
     refusedVisas: 0
@@ -2588,10 +2588,10 @@ country_stats:
     country: " Port Of Spain, Trinidad and Tobago"
     issuedVisas: 5
     issuedCases: 3
-    apVisas: 0
-    apCases: 0
-    readyVisas: 7
-    readyCases: 2
+    apVisas: 4
+    apCases: 1
+    readyVisas: 3
+    readyCases: 1
     refusedVisas: 2
     refusedCases: 2
     totalVisas: 14
@@ -2682,10 +2682,10 @@ country_stats:
     totalCases: 1
   - post: "SDO"
     country: " Santo Domingo, Dominican Republic"
-    issuedVisas: 0
-    issuedCases: 0
-    apVisas: 2
-    apCases: 2
+    issuedVisas: 2
+    issuedCases: 2
+    apVisas: 0
+    apCases: 0
     readyVisas: 1
     readyCases: 1
     refusedVisas: 0
@@ -2742,15 +2742,15 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 560
-    issuedCases: 312
-    apVisas: 60
-    apCases: 33
-    readyVisas: 845
-    readyCases: 353
-    refusedVisas: 61
-    refusedCases: 42
-    totalVisas: 1526
+    issuedVisas: 578
+    issuedCases: 320
+    apVisas: 67
+    apCases: 34
+    readyVisas: 814
+    readyCases: 340
+    refusedVisas: 68
+    refusedCases: 46
+    totalVisas: 1527
     totalCases: 740
 accepted:
 - region: "AF"
