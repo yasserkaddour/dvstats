@@ -85,30 +85,30 @@ summary:
     cases: 148
     visas: 198
   ready:
-    cases: 271
-    visas: 570
+    cases: 272
+    visas: 571
   refused:
     cases: 51
     visas: 68
   transit: 1
   total:
-    cases: 472
-    visas: 840
-  quota_percentage: "97.22%"
+    cases: 473
+    visas: 841
+  quota_percentage: "97.34%"
 - label: "SA"
   quota: 1620
   ap:
-    cases: 34
-    visas: 67
+    cases: 29
+    visas: 59
   issued:
-    cases: 320
-    visas: 578
+    cases: 328
+    visas: 592
   ready:
-    cases: 340
-    visas: 814
+    cases: 338
+    visas: 809
   refused:
-    cases: 46
-    visas: 68
+    cases: 45
+    visas: 67
   transit: 7
   total:
     cases: 747
@@ -117,23 +117,23 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 102
-    visas: 237
+    cases: 97
+    visas: 229
   issued:
-    cases: 3033
-    visas: 5163
+    cases: 3041
+    visas: 5177
   ready:
-    cases: 3016
-    visas: 7057
+    cases: 3015
+    visas: 7053
   refused:
-    cases: 804
-    visas: 1228
+    cases: 803
+    visas: 1227
   transit: 141
   total:
-    cases: 7096
-    visas: 13826
-  quota_percentage: "25.60%"
-updated_date: "2021-08-05T17:53:33.035Z"
+    cases: 7097
+    visas: 13827
+  quota_percentage: "25.61%"
+updated_date: "2021-08-05T22:59:45.477Z"
 "2nl":
   af: 17
   as: 16
@@ -2205,12 +2205,12 @@ country_stats:
     issuedCases: 56
     apVisas: 3
     apCases: 1
-    readyVisas: 67
-    readyCases: 30
+    readyVisas: 68
+    readyCases: 31
     refusedVisas: 12
     refusedCases: 5
-    totalVisas: 157
-    totalCases: 92
+    totalVisas: 158
+    totalCases: 93
   - post: "LND"
     country: " London, United Kingdom"
     issuedVisas: 12
@@ -2445,24 +2445,24 @@ country_stats:
     issuedCases: 148
     apVisas: 3
     apCases: 1
-    readyVisas: 570
-    readyCases: 271
+    readyVisas: 571
+    readyCases: 272
     refusedVisas: 68
     refusedCases: 51
-    totalVisas: 839
-    totalCases: 471
+    totalVisas: 840
+    totalCases: 472
   sa:
   - post: "LMA"
     country: " Lima, Peru"
-    issuedVisas: 48
-    issuedCases: 29
-    apVisas: 12
-    apCases: 6
-    readyVisas: 407
+    issuedVisas: 56
+    issuedCases: 34
+    apVisas: 4
+    apCases: 1
+    readyVisas: 406
     readyCases: 201
     refusedVisas: 5
     refusedCases: 4
-    totalVisas: 472
+    totalVisas: 471
     totalCases: 240
   - post: "GEO"
     country: " Georgetown, Guyana"
@@ -2478,22 +2478,22 @@ country_stats:
     totalCases: 188
   - post: "BGT"
     country: " Bogota, Colombia"
-    issuedVisas: 41
-    issuedCases: 31
-    apVisas: 36
-    apCases: 22
-    readyVisas: 59
-    readyCases: 16
-    refusedVisas: 33
-    refusedCases: 22
+    issuedVisas: 44
+    issuedCases: 33
+    apVisas: 39
+    apCases: 23
+    readyVisas: 54
+    readyCases: 14
+    refusedVisas: 32
+    refusedCases: 21
     totalVisas: 169
     totalCases: 91
   - post: "BNS"
     country: " Buenos Aires, Argentina"
-    issuedVisas: 39
-    issuedCases: 28
-    apVisas: 3
-    apCases: 1
+    issuedVisas: 42
+    issuedCases: 29
+    apVisas: 0
+    apCases: 0
     readyVisas: 61
     readyCases: 19
     refusedVisas: 5
@@ -2506,11 +2506,11 @@ country_stats:
     issuedCases: 20
     apVisas: 11
     apCases: 3
-    readyVisas: 37
+    readyVisas: 38
     readyCases: 14
     refusedVisas: 9
     refusedCases: 6
-    totalVisas: 104
+    totalVisas: 105
     totalCases: 43
   - post: "SNT"
     country: " Santiago, Chile"
@@ -2742,14 +2742,14 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 578
-    issuedCases: 320
-    apVisas: 67
-    apCases: 34
-    readyVisas: 814
-    readyCases: 340
-    refusedVisas: 68
-    refusedCases: 46
+    issuedVisas: 592
+    issuedCases: 328
+    apVisas: 59
+    apCases: 29
+    readyVisas: 809
+    readyCases: 338
+    refusedVisas: 67
+    refusedCases: 45
     totalVisas: 1527
     totalCases: 740
 accepted:
