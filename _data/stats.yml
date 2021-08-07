@@ -3,17 +3,17 @@ summary:
 - label: "AF"
   quota: 23310
   ap:
-    cases: 27
-    visas: 65
+    cases: 30
+    visas: 76
   issued:
     cases: 1280
     visas: 1976
   ready:
-    cases: 1114
-    visas: 2626
+    cases: 1101
+    visas: 2602
   refused:
-    cases: 424
-    visas: 600
+    cases: 434
+    visas: 613
   transit: 19
   total:
     cases: 2864
@@ -117,23 +117,23 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 96
-    visas: 193
+    cases: 99
+    visas: 204
   issued:
     cases: 3148
     visas: 5404
   ready:
-    cases: 2901
-    visas: 6894
+    cases: 2888
+    visas: 6870
   refused:
-    cases: 833
-    visas: 1280
+    cases: 843
+    visas: 1293
   transit: 119
   total:
     cases: 7097
     visas: 13890
   quota_percentage: "25.72%"
-updated_date: "2021-08-06T22:48:58.834Z"
+updated_date: "2021-08-07T21:17:37.449Z"
 "2nl":
   af: 0
   as: 0
@@ -147,12 +147,12 @@ country_stats:
     country: " Kinshasa, Democratic Republic of the Congo"
     issuedVisas: 80
     issuedCases: 44
-    apVisas: 3
-    apCases: 2
-    readyVisas: 941
-    readyCases: 340
-    refusedVisas: 112
-    refusedCases: 90
+    apVisas: 13
+    apCases: 4
+    readyVisas: 917
+    readyCases: 327
+    refusedVisas: 126
+    refusedCases: 101
     totalVisas: 1136
     totalCases: 476
   - post: "CSB"
@@ -171,12 +171,12 @@ country_stats:
     country: " Yaounde, Cameroon"
     issuedVisas: 315
     issuedCases: 199
-    apVisas: 3
-    apCases: 1
+    apVisas: 4
+    apCases: 2
     readyVisas: 298
     readyCases: 113
-    refusedVisas: 160
-    refusedCases: 94
+    refusedVisas: 159
+    refusedCases: 93
     totalVisas: 776
     totalCases: 407
   - post: "NRB"
@@ -807,12 +807,12 @@ country_stats:
     country: null
     issuedVisas: 1976
     issuedCases: 1280
-    apVisas: 65
-    apCases: 27
-    readyVisas: 2626
-    readyCases: 1114
-    refusedVisas: 600
-    refusedCases: 424
+    apVisas: 76
+    apCases: 30
+    readyVisas: 2602
+    readyCases: 1101
+    refusedVisas: 613
+    refusedCases: 434
     totalVisas: 5267
     totalCases: 2845
   as:
@@ -2752,12 +2752,4 @@ country_stats:
     refusedCases: 45
     totalVisas: 1541
     totalCases: 747
-accepted:
-- region: "EU"
-  country: " Ashgabat, Turkmenistan"
-  cases: 15
-  visas: 65
-- region: "SA"
-  country: " Santiago, Chile"
-  cases: 7
-  visas: 13
+accepted: null
