@@ -4,40 +4,40 @@ summary:
   quota: 23310
   ap:
     cases: 30
-    visas: 76
+    visas: 71
   issued:
     cases: 1280
     visas: 1976
   ready:
-    cases: 1101
-    visas: 2602
+    cases: 1122
+    visas: 2664
   refused:
-    cases: 434
-    visas: 613
-  transit: 19
+    cases: 430
+    visas: 610
+  transit: 2
   total:
     cases: 2864
-    visas: 5286
-  quota_percentage: "22.68%"
+    visas: 5323
+  quota_percentage: "22.84%"
 - label: "AS"
   quota: 8424
   ap:
-    cases: 36
-    visas: 54
+    cases: 38
+    visas: 57
   issued:
     cases: 471
     visas: 879
   ready:
-    cases: 531
-    visas: 1214
+    cases: 547
+    visas: 1249
   refused:
-    cases: 149
-    visas: 248
-  transit: 85
+    cases: 147
+    visas: 245
+  transit: 69
   total:
     cases: 1272
-    visas: 2480
-  quota_percentage: "29.44%"
+    visas: 2499
+  quota_percentage: "29.67%"
 - label: "EU"
   quota: 19764
   ap:
@@ -47,16 +47,16 @@ summary:
     cases: 878
     visas: 1673
   ready:
-    cases: 652
-    visas: 1688
+    cases: 655
+    visas: 1696
   refused:
     cases: 163
     visas: 291
-  transit: 14
+  transit: 11
   total:
     cases: 1733
-    visas: 3724
-  quota_percentage: "18.84%"
+    visas: 3729
+  quota_percentage: "18.87%"
 - label: "NA"
   quota: 18
   ap:
@@ -99,10 +99,10 @@ summary:
   quota: 1620
   ap:
     cases: 6
-    visas: 13
+    visas: 10
   issued:
     cases: 363
-    visas: 663
+    visas: 666
   ready:
     cases: 333
     visas: 793
@@ -117,23 +117,23 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 99
-    visas: 204
+    cases: 101
+    visas: 199
   issued:
     cases: 3148
-    visas: 5404
+    visas: 5407
   ready:
-    cases: 2888
-    visas: 6870
+    cases: 2928
+    visas: 6975
   refused:
-    cases: 843
-    visas: 1293
-  transit: 119
+    cases: 837
+    visas: 1287
+  transit: 83
   total:
     cases: 7097
-    visas: 13890
-  quota_percentage: "25.72%"
-updated_date: "2021-08-07T21:17:37.449Z"
+    visas: 13951
+  quota_percentage: "25.84%"
+updated_date: "2021-08-08T21:09:36.096Z"
 "2nl":
   af: 0
   as: 0
@@ -173,10 +173,10 @@ country_stats:
     issuedCases: 199
     apVisas: 4
     apCases: 2
-    readyVisas: 298
-    readyCases: 113
-    refusedVisas: 159
-    refusedCases: 93
+    readyVisas: 299
+    readyCases: 114
+    refusedVisas: 158
+    refusedCases: 92
     totalVisas: 776
     totalCases: 407
   - post: "NRB"
@@ -195,12 +195,12 @@ country_stats:
     country: " Algiers, Algeria "
     issuedVisas: 207
     issuedCases: 137
-    apVisas: 19
-    apCases: 9
-    readyVisas: 111
-    readyCases: 61
-    refusedVisas: 9
-    refusedCases: 8
+    apVisas: 13
+    apCases: 8
+    readyVisas: 118
+    readyCases: 63
+    refusedVisas: 8
+    refusedCases: 7
     totalVisas: 346
     totalCases: 215
   - post: "LOM"
@@ -222,9 +222,9 @@ country_stats:
     apVisas: 29
     apCases: 7
     readyVisas: 114
-    readyCases: 20
+    readyCases: 21
     refusedVisas: 23
-    refusedCases: 20
+    refusedCases: 19
     totalVisas: 190
     totalCases: 69
   - post: "KGL"
@@ -275,6 +275,18 @@ country_stats:
     refusedCases: 13
     totalVisas: 106
     totalCases: 42
+  - post: "DOH"
+    country: " Doha, Qatar"
+    issuedVisas: 39
+    issuedCases: 14
+    apVisas: 0
+    apCases: 0
+    readyVisas: 61
+    readyCases: 19
+    refusedVisas: 3
+    refusedCases: 1
+    totalVisas: 103
+    totalCases: 34
   - post: "COT"
     country: " Cotonou, Benin"
     issuedVisas: 18
@@ -339,12 +351,12 @@ country_stats:
     country: " Djibouti, Djibouti"
     issuedVisas: 24
     issuedCases: 10
-    apVisas: 2
-    apCases: 1
+    apVisas: 3
+    apCases: 2
     readyVisas: 18
     readyCases: 3
-    refusedVisas: 13
-    refusedCases: 9
+    refusedVisas: 12
+    refusedCases: 8
     totalVisas: 57
     totalCases: 23
   - post: "KWT"
@@ -359,18 +371,6 @@ country_stats:
     refusedCases: 4
     totalVisas: 53
     totalCases: 20
-  - post: "DOH"
-    country: " Doha, Qatar"
-    issuedVisas: 39
-    issuedCases: 14
-    apVisas: 0
-    apCases: 0
-    readyVisas: 7
-    readyCases: 2
-    refusedVisas: 3
-    refusedCases: 1
-    totalVisas: 49
-    totalCases: 17
   - post: "ADD"
     country: " Addis Ababa, Ethiopia"
     issuedVisas: 26
@@ -807,14 +807,14 @@ country_stats:
     country: null
     issuedVisas: 1976
     issuedCases: 1280
-    apVisas: 76
+    apVisas: 71
     apCases: 30
-    readyVisas: 2602
-    readyCases: 1101
-    refusedVisas: 613
-    refusedCases: 434
-    totalVisas: 5267
-    totalCases: 2845
+    readyVisas: 2664
+    readyCases: 1122
+    refusedVisas: 610
+    refusedCases: 430
+    totalVisas: 5321
+    totalCases: 2862
   as:
   - post: "KDU"
     country: " Kathmandu, Nepal"
@@ -856,12 +856,12 @@ country_stats:
     country: " Djibouti, Djibouti"
     issuedVisas: 69
     issuedCases: 36
-    apVisas: 1
-    apCases: 1
+    apVisas: 4
+    apCases: 3
     readyVisas: 69
     readyCases: 40
-    refusedVisas: 14
-    refusedCases: 11
+    refusedVisas: 11
+    refusedCases: 9
     totalVisas: 153
     totalCases: 88
   - post: "TKY"
@@ -924,6 +924,18 @@ country_stats:
     refusedCases: 2
     totalVisas: 67
     totalCases: 21
+  - post: "DOH"
+    country: " Doha, Qatar"
+    issuedVisas: 18
+    issuedCases: 9
+    apVisas: 0
+    apCases: 0
+    readyVisas: 37
+    readyCases: 17
+    refusedVisas: 2
+    refusedCases: 1
+    totalVisas: 57
+    totalCases: 27
   - post: "HNK"
     country: " Hong Kong, China"
     issuedVisas: 48
@@ -984,18 +996,6 @@ country_stats:
     refusedCases: 2
     totalVisas: 23
     totalCases: 14
-  - post: "DOH"
-    country: " Doha, Qatar"
-    issuedVisas: 18
-    issuedCases: 9
-    apVisas: 0
-    apCases: 0
-    readyVisas: 2
-    readyCases: 1
-    refusedVisas: 2
-    refusedCases: 1
-    totalVisas: 22
-    totalCases: 11
   - post: "JAK"
     country: " Jakarta, Indonesia"
     issuedVisas: 18
@@ -1456,14 +1456,14 @@ country_stats:
     country: null
     issuedVisas: 879
     issuedCases: 471
-    apVisas: 54
-    apCases: 36
-    readyVisas: 1214
-    readyCases: 531
-    refusedVisas: 248
-    refusedCases: 149
-    totalVisas: 2395
-    totalCases: 1187
+    apVisas: 57
+    apCases: 38
+    readyVisas: 1249
+    readyCases: 547
+    refusedVisas: 245
+    refusedCases: 147
+    totalVisas: 2430
+    totalCases: 1203
   eu:
   - post: "KEV"
     country: " Kyiv, Ukraine"
@@ -1849,6 +1849,18 @@ country_stats:
     refusedCases: 1
     totalVisas: 8
     totalCases: 2
+  - post: "DOH"
+    country: " Doha, Qatar"
+    issuedVisas: 0
+    issuedCases: 0
+    apVisas: 0
+    apCases: 0
+    readyVisas: 8
+    readyCases: 3
+    refusedVisas: 0
+    refusedCases: 0
+    totalVisas: 8
+    totalCases: 3
   - post: "SEO"
     country: " Seoul, South Korea"
     issuedVisas: 6
@@ -2143,12 +2155,12 @@ country_stats:
     issuedCases: 878
     apVisas: 58
     apCases: 26
-    readyVisas: 1688
-    readyCases: 652
+    readyVisas: 1696
+    readyCases: 655
     refusedVisas: 291
     refusedCases: 163
-    totalVisas: 3710
-    totalCases: 1719
+    totalVisas: 3718
+    totalCases: 1722
   na:
   - post: "NSS"
     country: " Nassau, Bahamas"
@@ -2454,9 +2466,9 @@ country_stats:
   sa:
   - post: "LMA"
     country: " Lima, Peru"
-    issuedVisas: 64
+    issuedVisas: 65
     issuedCases: 36
-    apVisas: 2
+    apVisas: 1
     apCases: 1
     readyVisas: 401
     readyCases: 200
@@ -2502,9 +2514,9 @@ country_stats:
     totalCases: 51
   - post: "GYQ"
     country: " Guayaquil, Ecuador"
-    issuedVisas: 60
+    issuedVisas: 62
     issuedCases: 26
-    apVisas: 6
+    apVisas: 4
     apCases: 2
     readyVisas: 26
     readyCases: 8
@@ -2742,9 +2754,9 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 663
+    issuedVisas: 666
     issuedCases: 363
-    apVisas: 13
+    apVisas: 10
     apCases: 6
     readyVisas: 793
     readyCases: 333
@@ -2752,4 +2764,16 @@ country_stats:
     refusedCases: 45
     totalVisas: 1541
     totalCases: 747
-accepted: null
+accepted:
+- region: "AF"
+  country: " Doha, Qatar"
+  cases: 17
+  visas: 54
+- region: "AS"
+  country: " Doha, Qatar"
+  cases: 16
+  visas: 35
+- region: "EU"
+  country: " Doha, Qatar"
+  cases: 3
+  visas: 8
