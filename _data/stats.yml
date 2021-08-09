@@ -22,14 +22,14 @@ summary:
 - label: "AS"
   quota: 8424
   ap:
-    cases: 70
-    visas: 112
+    cases: 71
+    visas: 113
   issued:
     cases: 473
     visas: 882
   ready:
-    cases: 550
-    visas: 1271
+    cases: 549
+    visas: 1270
   refused:
     cases: 154
     visas: 250
@@ -117,14 +117,14 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 125
-    visas: 202
+    cases: 126
+    visas: 203
   issued:
     cases: 3221
     visas: 5563
   ready:
-    cases: 2858
-    visas: 6869
+    cases: 2857
+    visas: 6868
   refused:
     cases: 854
     visas: 1321
@@ -133,7 +133,7 @@ summary:
     cases: 7097
     visas: 13994
   quota_percentage: "25.91%"
-updated_date: "2021-08-09T14:11:24.935Z"
+updated_date: "2021-08-09T16:18:02.361Z"
 "2nl":
   af: 0
   as: 0
@@ -1168,10 +1168,10 @@ country_stats:
     country: " Rio De Janeiro, Brazil"
     issuedVisas: 0
     issuedCases: 0
-    apVisas: 0
-    apCases: 0
-    readyVisas: 1
-    readyCases: 1
+    apVisas: 1
+    apCases: 1
+    readyVisas: 0
+    readyCases: 0
     refusedVisas: 6
     refusedCases: 1
     totalVisas: 7
@@ -1456,10 +1456,10 @@ country_stats:
     country: null
     issuedVisas: 882
     issuedCases: 473
-    apVisas: 112
-    apCases: 70
-    readyVisas: 1271
-    readyCases: 550
+    apVisas: 113
+    apCases: 71
+    readyVisas: 1270
+    readyCases: 549
     refusedVisas: 250
     refusedCases: 154
     totalVisas: 2515
