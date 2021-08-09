@@ -3,17 +3,17 @@ summary:
 - label: "AF"
   quota: 23310
   ap:
-    cases: 38
-    visas: 52
+    cases: 40
+    visas: 55
   issued:
     cases: 1313
     visas: 2054
   ready:
-    cases: 1074
-    visas: 2585
+    cases: 1073
+    visas: 2583
   refused:
-    cases: 437
-    visas: 626
+    cases: 436
+    visas: 625
   transit: 2
   total:
     cases: 2864
@@ -98,17 +98,17 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 9
-    visas: 16
+    cases: 7
+    visas: 11
   issued:
-    cases: 363
-    visas: 666
+    cases: 365
+    visas: 671
   ready:
-    cases: 329
-    visas: 784
+    cases: 330
+    visas: 785
   refused:
-    cases: 46
-    visas: 75
+    cases: 45
+    visas: 74
   transit: 0
   total:
     cases: 747
@@ -118,22 +118,22 @@ summary:
   quota: 54000
   ap:
     cases: 138
-    visas: 221
+    visas: 219
   issued:
-    cases: 3222
-    visas: 5564
+    cases: 3224
+    visas: 5569
   ready:
     cases: 2848
-    visas: 6849
+    visas: 6848
   refused:
-    cases: 850
-    visas: 1317
+    cases: 848
+    visas: 1315
   transit: 39
   total:
     cases: 7097
     visas: 13990
   quota_percentage: "25.91%"
-updated_date: "2021-08-09T17:43:41.913Z"
+updated_date: "2021-08-09T19:40:39.593Z"
 "2nl":
   af: 0
   as: 0
@@ -303,10 +303,10 @@ country_stats:
     country: " Abidjan, Cote d'Ivoire"
     issuedVisas: 41
     issuedCases: 34
-    apVisas: 3
-    apCases: 3
-    readyVisas: 26
-    readyCases: 16
+    apVisas: 4
+    apCases: 4
+    readyVisas: 25
+    readyCases: 15
     refusedVisas: 8
     refusedCases: 8
     totalVisas: 78
@@ -339,12 +339,12 @@ country_stats:
     country: " Freetown, Sierra Leone"
     issuedVisas: 0
     issuedCases: 0
-    apVisas: 0
-    apCases: 0
-    readyVisas: 15
+    apVisas: 2
+    apCases: 1
+    readyVisas: 14
     readyCases: 4
-    refusedVisas: 45
-    refusedCases: 30
+    refusedVisas: 44
+    refusedCases: 29
     totalVisas: 60
     totalCases: 34
   - post: "DJI"
@@ -807,12 +807,12 @@ country_stats:
     country: null
     issuedVisas: 2054
     issuedCases: 1313
-    apVisas: 52
-    apCases: 38
-    readyVisas: 2585
-    readyCases: 1074
-    refusedVisas: 626
-    refusedCases: 437
+    apVisas: 55
+    apCases: 40
+    readyVisas: 2583
+    readyCases: 1073
+    refusedVisas: 625
+    refusedCases: 436
     totalVisas: 5317
     totalCases: 2862
   as:
@@ -2478,10 +2478,10 @@ country_stats:
     totalCases: 240
   - post: "GEO"
     country: " Georgetown, Guyana"
-    issuedVisas: 194
-    issuedCases: 114
-    apVisas: 5
-    apCases: 2
+    issuedVisas: 199
+    issuedCases: 116
+    apVisas: 0
+    apCases: 0
     readyVisas: 186
     readyCases: 64
     refusedVisas: 12
@@ -2494,10 +2494,10 @@ country_stats:
     issuedCases: 54
     apVisas: 4
     apCases: 2
-    readyVisas: 54
-    readyCases: 14
-    refusedVisas: 32
-    refusedCases: 21
+    readyVisas: 55
+    readyCases: 15
+    refusedVisas: 31
+    refusedCases: 20
     totalVisas: 169
     totalCases: 91
   - post: "BNS"
@@ -2754,14 +2754,14 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 666
-    issuedCases: 363
-    apVisas: 16
-    apCases: 9
-    readyVisas: 784
-    readyCases: 329
-    refusedVisas: 75
-    refusedCases: 46
+    issuedVisas: 671
+    issuedCases: 365
+    apVisas: 11
+    apCases: 7
+    readyVisas: 785
+    readyCases: 330
+    refusedVisas: 74
+    refusedCases: 45
     totalVisas: 1541
     totalCases: 747
 accepted:
