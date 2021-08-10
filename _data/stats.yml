@@ -133,14 +133,14 @@ summary:
     cases: 7098
     visas: 13996
   quota_percentage: "25.92%"
-updated_date: "2021-08-10T14:13:01.519Z"
+updated_date: "2021-08-10T18:09:38.027Z"
 "2nl":
-  af: 0
-  as: 0
-  eu: 0
-  na: 0
-  oc: 0
-  sa: 0
+- region: "AF"
+- region: "AS"
+- region: "EU"
+- region: "NA"
+- region: "OC"
+- region: "SA"
 country_stats:
   af:
   - post: "KIN"
