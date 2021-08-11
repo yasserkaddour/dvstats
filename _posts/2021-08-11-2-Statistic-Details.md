@@ -63,11 +63,13 @@ Region |                Country              |  Cases |  Visas
 ## Second Notification Letter Details
 
 {% for region in data.2nl %}
+{% if region.cases %}
 #### {{ region.region }} region
 
 {% for case in region.cases %}
 - {{ case }}
 {% endfor %}
+{% endif %}
 
 {% endfor %}
 {% endif %}
