@@ -4,13 +4,13 @@ summary:
   quota: 23310
   ap:
     cases: 37
-    visas: 73
+    visas: 72
   issued:
     cases: 1364
-    visas: 2129
+    visas: 2128
   ready:
     cases: 1022
-    visas: 2500
+    visas: 2502
   refused:
     cases: 439
     visas: 621
@@ -118,13 +118,13 @@ summary:
   quota: 54000
   ap:
     cases: 105
-    visas: 216
+    visas: 215
   issued:
     cases: 3417
-    visas: 5913
+    visas: 5912
   ready:
     cases: 2668
-    visas: 6485
+    visas: 6487
   refused:
     cases: 869
     visas: 1345
@@ -133,7 +133,7 @@ summary:
     cases: 7292
     visas: 14192
   quota_percentage: "26.28%"
-updated_date: "2021-08-11T20:39:47.56Z"
+updated_date: "2021-08-11T20:19:12.821Z"
 "2nl":
 - region: "AF"
   cases:
@@ -342,11 +342,11 @@ country_stats:
   af:
   - post: "KIN"
     country: " Kinshasa, Democratic Republic of the Congo"
-    issuedVisas: 107
+    issuedVisas: 106
     issuedCases: 55
     apVisas: 6
     apCases: 2
-    readyVisas: 891
+    readyVisas: 892
     readyCases: 312
     refusedVisas: 127
     refusedCases: 107
@@ -380,9 +380,9 @@ country_stats:
     country: " Nairobi, Kenya"
     issuedVisas: 145
     issuedCases: 88
-    apVisas: 13
+    apVisas: 12
     apCases: 9
-    readyVisas: 132
+    readyVisas: 133
     readyCases: 50
     refusedVisas: 72
     refusedCases: 41
@@ -1002,11 +1002,11 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 2129
+    issuedVisas: 2128
     issuedCases: 1364
-    apVisas: 73
+    apVisas: 72
     apCases: 37
-    readyVisas: 2500
+    readyVisas: 2502
     readyCases: 1022
     refusedVisas: 621
     refusedCases: 439
