@@ -6,7 +6,7 @@ pageScript: |
   var m = moment(el.innerHTML.replaceAll('*', ''));
   el.innerHTML = m.format('LLL');
 ---
-{% assign data = site.data.posts.stats1628681404835 %}
+{% assign data = site.data.posts.stats1628719204767 %}
 
 ## DV2021 Daily Visa Statistics Summary Table
 
@@ -63,11 +63,13 @@ Region |                Country              |  Cases |  Visas
 ## Second Notification Letter Details
 
 {% for region in data.2nl %}
+{% if region.cases %}
 #### {{ region.region }} region
 
 {% for case in region.cases %}
 - {{ case }}
 {% endfor %}
+{% endif %}
 
 {% endfor %}
 {% endif %}
