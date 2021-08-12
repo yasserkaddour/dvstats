@@ -6,7 +6,7 @@ pageScript: |
   var m = moment(el.innerHTML.replaceAll('*', ''));
   el.innerHTML = m.format('LLL');
 ---
-{% assign data = site.data.posts.stats1628794804475 %}
+{% assign data = site.data.posts.stats1628798533234 %}
 
 ## DV2021 Daily Visa Statistics Summary Table
 
