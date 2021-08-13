@@ -3,22 +3,22 @@ summary:
 - label: "AF"
   quota: 23310
   ap:
-    cases: 64
-    visas: 98
+    cases: 31
+    visas: 60
   issued:
     cases: 1433
     visas: 2259
   ready:
-    cases: 915
-    visas: 2356
+    cases: 948
+    visas: 2394
   refused:
     cases: 460
     visas: 646
-  transit: 54
+  transit: 30
   total:
-    cases: 2926
-    visas: 5413
-  quota_percentage: "23.22%"
+    cases: 2902
+    visas: 5389
+  quota_percentage: "23.12%"
 - label: "AS"
   quota: 8424
   ap:
@@ -33,30 +33,30 @@ summary:
   refused:
     cases: 176
     visas: 292
-  transit: 45
+  transit: 13
   total:
-    cases: 1543
-    visas: 2989
-  quota_percentage: "35.48%"
+    cases: 1511
+    visas: 2957
+  quota_percentage: "35.10%"
 - label: "EU"
   quota: 19764
   ap:
-    cases: 31
-    visas: 74
+    cases: 29
+    visas: 66
   issued:
     cases: 1027
     visas: 2009
   ready:
-    cases: 503
-    visas: 1353
+    cases: 505
+    visas: 1357
   refused:
     cases: 176
-    visas: 333
-  transit: 121
+    visas: 332
+  transit: 2
   total:
-    cases: 1858
-    visas: 3890
-  quota_percentage: "19.68%"
+    cases: 1739
+    visas: 3766
+  quota_percentage: "19.05%"
 - label: "NA"
   quota: 18
   ap:
@@ -98,42 +98,42 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 27
-    visas: 59
+    cases: 14
+    visas: 28
   issued:
-    cases: 405
-    visas: 750
+    cases: 393
+    visas: 727
   ready:
-    cases: 276
-    visas: 666
+    cases: 305
+    visas: 729
   refused:
-    cases: 50
-    visas: 91
+    cases: 46
+    visas: 78
   transit: 1
   total:
     cases: 759
-    visas: 1567
-  quota_percentage: "96.73%"
+    visas: 1563
+  quota_percentage: "96.48%"
 - label: "Total"
   quota: 54000
   ap:
-    cases: 158
-    visas: 301
+    cases: 110
+    visas: 224
   issued:
-    cases: 3647
-    visas: 6370
+    cases: 3635
+    visas: 6347
   ready:
-    cases: 2627
-    visas: 6391
+    cases: 2691
+    visas: 6496
   refused:
-    cases: 914
-    visas: 1437
-  transit: 221
+    cases: 910
+    visas: 1423
+  transit: 46
   total:
-    cases: 7567
-    visas: 14720
-  quota_percentage: "27.26%"
-updated_date: "2021-08-13T17:41:19.613Z"
+    cases: 7392
+    visas: 14536
+  quota_percentage: "26.92%"
+updated_date: "2021-08-13T16:27:15.694Z"
 "2nl":
 - region: "AF"
   cases:
@@ -146,186 +146,10 @@ updated_date: "2021-08-13T17:41:19.613Z"
   - "2021AF14077"
   - "2021AF19267"
   - "2021AF19341"
-  - "2021AF19703"
-  - "2021AF19770"
-  - "2021AF20647"
-  - "2021AF20763"
-  - "2021AF21430"
-  - "2021AF21444"
-  - "2021AF21517"
-  - "2021AF22019"
-  - "2021AF23502"
-  - "2021AF24003"
-  - "2021AF24062"
-  - "2021AF24150"
-  - "2021AF24917"
-  - "2021AF25297"
-  - "2021AF25428"
-  - "2021AF25483"
-  - "2021AF27211"
-  - "2021AF27656"
-  - "2021AF27888"
-  - "2021AF28454"
-  - "2021AF30282"
-  - "2021AF31273"
-  - "2021AF31903"
-  - "2021AF32262"
 - region: "AS"
-  cases:
-  - "2021AS2596"
-  - "2021AS2617"
-  - "2021AS2678"
-  - "2021AS2766"
-  - "2021AS2779"
-  - "2021AS2852"
-  - "2021AS2877"
-  - "2021AS2965"
-  - "2021AS2969"
-  - "2021AS3003"
-  - "2021AS3017"
-  - "2021AS3026"
-  - "2021AS3095"
-  - "2021AS3173"
-  - "2021AS3176"
-  - "2021AS3242"
-  - "2021AS3260"
-  - "2021AS3331"
-  - "2021AS3334"
-  - "2021AS3344"
-  - "2021AS3345"
-  - "2021AS3352"
-  - "2021AS3356"
-  - "2021AS3374"
-  - "2021AS14030"
-  - "2021AS15374"
-  - "2021AS17984"
-  - "2021AS18213"
-  - "2021AS18724"
-  - "2021AS19441"
-  - "2021AS22066"
-  - "2021AS35220"
 - region: "EU"
   cases:
-  - "2021EU455"
-  - "2021EU919"
-  - "2021EU1450"
-  - "2021EU1457"
-  - "2021EU2006"
-  - "2021EU2058"
-  - "2021EU2360"
-  - "2021EU2435"
-  - "2021EU2446"
-  - "2021EU2888"
-  - "2021EU2976"
-  - "2021EU3622"
-  - "2021EU4078"
-  - "2021EU4314"
-  - "2021EU4609"
-  - "2021EU4631"
-  - "2021EU4967"
-  - "2021EU5184"
-  - "2021EU5378"
-  - "2021EU5467"
-  - "2021EU5538"
-  - "2021EU5566"
-  - "2021EU5620"
-  - "2021EU5685"
-  - "2021EU5691"
-  - "2021EU5823"
-  - "2021EU5910"
-  - "2021EU5940"
-  - "2021EU5945"
-  - "2021EU6222"
-  - "2021EU6291"
-  - "2021EU6310"
-  - "2021EU6359"
-  - "2021EU6366"
-  - "2021EU6375"
-  - "2021EU6385"
-  - "2021EU6518"
-  - "2021EU6556"
-  - "2021EU6585"
-  - "2021EU6599"
-  - "2021EU6607"
-  - "2021EU6608"
-  - "2021EU6659"
-  - "2021EU6662"
-  - "2021EU6665"
-  - "2021EU6666"
-  - "2021EU6667"
-  - "2021EU6707"
-  - "2021EU6798"
-  - "2021EU6822"
-  - "2021EU6832"
-  - "2021EU6848"
-  - "2021EU6898"
-  - "2021EU6957"
-  - "2021EU6972"
-  - "2021EU6979"
-  - "2021EU6985"
-  - "2021EU7020"
-  - "2021EU7116"
-  - "2021EU7117"
-  - "2021EU7142"
-  - "2021EU7156"
-  - "2021EU7159"
-  - "2021EU7166"
-  - "2021EU7307"
-  - "2021EU7475"
-  - "2021EU7490"
-  - "2021EU7558"
-  - "2021EU7579"
-  - "2021EU7666"
-  - "2021EU7675"
-  - "2021EU7723"
-  - "2021EU7835"
-  - "2021EU7872"
-  - "2021EU7883"
-  - "2021EU7909"
-  - "2021EU7973"
-  - "2021EU7980"
-  - "2021EU8071"
-  - "2021EU8077"
-  - "2021EU8184"
-  - "2021EU8188"
-  - "2021EU8191"
-  - "2021EU8195"
-  - "2021EU8230"
-  - "2021EU8239"
-  - "2021EU8281"
-  - "2021EU8282"
-  - "2021EU8296"
-  - "2021EU8299"
-  - "2021EU8319"
-  - "2021EU8738"
-  - "2021EU8798"
-  - "2021EU9297"
-  - "2021EU9347"
-  - "2021EU9995"
-  - "2021EU10648"
-  - "2021EU14423"
-  - "2021EU14492"
-  - "2021EU14893"
-  - "2021EU15242"
-  - "2021EU15454"
-  - "2021EU15572"
-  - "2021EU17932"
-  - "2021EU19845"
-  - "2021EU19945"
-  - "2021EU20798"
-  - "2021EU21377"
-  - "2021EU21512"
-  - "2021EU21665"
-  - "2021EU23276"
-  - "2021EU23425"
-  - "2021EU25580"
-  - "2021EU28565"
-  - "2021EU29636"
-  - "2021EU29962"
-  - "2021EU31505"
-  - "2021EU33453"
-  - "2021EU35497"
-  - "2021EU36811"
+  - "2021EU4337"
 - region: "NA"
 - region: "OC"
 - region: "SA"
@@ -347,10 +171,10 @@ country_stats:
     country: " Casablanca, Morocco"
     issuedVisas: 450
     issuedCases: 366
-    apVisas: 38
-    apCases: 33
-    readyVisas: 290
-    readyCases: 197
+    apVisas: 0
+    apCases: 0
+    readyVisas: 328
+    readyCases: 230
     refusedVisas: 34
     refusedCases: 23
     totalVisas: 812
@@ -995,10 +819,10 @@ country_stats:
     country: null
     issuedVisas: 2259
     issuedCases: 1433
-    apVisas: 98
-    apCases: 64
-    readyVisas: 2356
-    readyCases: 915
+    apVisas: 60
+    apCases: 31
+    readyVisas: 2394
+    readyCases: 948
     refusedVisas: 646
     refusedCases: 460
     totalVisas: 5359
@@ -1683,10 +1507,10 @@ country_stats:
     issuedCases: 142
     apVisas: 0
     apCases: 0
-    readyVisas: 150
-    readyCases: 49
-    refusedVisas: 28
-    refusedCases: 16
+    readyVisas: 152
+    readyCases: 50
+    refusedVisas: 26
+    refusedCases: 15
     totalVisas: 474
     totalCases: 207
   - post: "ANK"
@@ -1695,11 +1519,11 @@ country_stats:
     issuedCases: 85
     apVisas: 34
     apCases: 17
-    readyVisas: 204
+    readyVisas: 202
     readyCases: 118
     refusedVisas: 13
     refusedCases: 9
-    totalVisas: 405
+    totalVisas: 403
     totalCases: 229
   - post: "TBL"
     country: " Tbilisi, Georgia"
@@ -1729,10 +1553,10 @@ country_stats:
     country: " Chisinau, Moldova"
     issuedVisas: 109
     issuedCases: 46
-    apVisas: 10
-    apCases: 2
-    readyVisas: 29
-    readyCases: 12
+    apVisas: 5
+    apCases: 1
+    readyVisas: 34
+    readyCases: 13
     refusedVisas: 25
     refusedCases: 13
     totalVisas: 173
@@ -1767,12 +1591,12 @@ country_stats:
     issuedCases: 22
     apVisas: 0
     apCases: 0
-    readyVisas: 32
-    readyCases: 10
+    readyVisas: 34
+    readyCases: 11
     refusedVisas: 12
     refusedCases: 6
-    totalVisas: 76
-    totalCases: 38
+    totalVisas: 78
+    totalCases: 39
   - post: "NPL"
     country: " Naples, Italy"
     issuedVisas: 28
@@ -1849,12 +1673,12 @@ country_stats:
     country: " Paris, France"
     issuedVisas: 22
     issuedCases: 15
-    apVisas: 3
-    apCases: 1
-    readyVisas: 14
+    apVisas: 0
+    apCases: 0
+    readyVisas: 16
     readyCases: 4
-    refusedVisas: 3
-    refusedCases: 3
+    refusedVisas: 4
+    refusedCases: 4
     totalVisas: 42
     totalCases: 23
   - post: "BLG"
@@ -2145,18 +1969,6 @@ country_stats:
     refusedCases: 0
     totalVisas: 6
     totalCases: 4
-  - post: "MNG"
-    country: " Managua, Nicaragua"
-    issuedVisas: 0
-    issuedCases: 0
-    apVisas: 0
-    apCases: 0
-    readyVisas: 5
-    readyCases: 1
-    refusedVisas: 0
-    refusedCases: 0
-    totalVisas: 5
-    totalCases: 1
   - post: "NCS"
     country: " Nicosia, Cyprus"
     issuedVisas: 5
@@ -2365,13 +2177,13 @@ country_stats:
     country: null
     issuedVisas: 2009
     issuedCases: 1027
-    apVisas: 74
-    apCases: 31
-    readyVisas: 1353
-    readyCases: 503
-    refusedVisas: 333
+    apVisas: 66
+    apCases: 29
+    readyVisas: 1357
+    readyCases: 505
+    refusedVisas: 332
     refusedCases: 176
-    totalVisas: 3769
+    totalVisas: 3764
     totalCases: 1737
   na:
   - post: "NSS"
@@ -2690,22 +2502,22 @@ country_stats:
   sa:
   - post: "LMA"
     country: " Lima, Peru"
-    issuedVisas: 106
-    issuedCases: 57
-    apVisas: 46
-    apCases: 23
-    readyVisas: 300
-    readyCases: 148
-    refusedVisas: 25
-    refusedCases: 12
-    totalVisas: 477
+    issuedVisas: 90
+    issuedCases: 48
+    apVisas: 17
+    apCases: 10
+    readyVisas: 360
+    readyCases: 177
+    refusedVisas: 6
+    refusedCases: 5
+    totalVisas: 473
     totalCases: 240
   - post: "GEO"
     country: " Georgetown, Guyana"
-    issuedVisas: 215
-    issuedCases: 123
-    apVisas: 0
-    apCases: 0
+    issuedVisas: 214
+    issuedCases: 122
+    apVisas: 1
+    apCases: 1
     readyVisas: 174
     readyCases: 60
     refusedVisas: 8
@@ -2726,14 +2538,14 @@ country_stats:
     totalCases: 91
   - post: "BNS"
     country: " Buenos Aires, Argentina"
-    issuedVisas: 51
-    issuedCases: 32
-    apVisas: 9
-    apCases: 3
-    readyVisas: 42
+    issuedVisas: 45
+    issuedCases: 30
+    apVisas: 6
+    apCases: 2
+    readyVisas: 45
     readyCases: 13
-    refusedVisas: 6
-    refusedCases: 3
+    refusedVisas: 12
+    refusedCases: 6
     totalVisas: 108
     totalCases: 51
   - post: "GYQ"
@@ -2978,15 +2790,15 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 750
-    issuedCases: 405
-    apVisas: 59
-    apCases: 27
-    readyVisas: 666
-    readyCases: 276
-    refusedVisas: 91
-    refusedCases: 50
-    totalVisas: 1566
+    issuedVisas: 727
+    issuedCases: 393
+    apVisas: 28
+    apCases: 14
+    readyVisas: 729
+    readyCases: 305
+    refusedVisas: 78
+    refusedCases: 46
+    totalVisas: 1562
     totalCases: 758
 accepted:
 - region: "AS"
@@ -3001,7 +2813,3 @@ accepted:
   country: " Madrid, Spain"
   cases: 11
   visas: 19
-- region: "EU"
-  country: " Managua, Nicaragua"
-  cases: 1
-  visas: 5
