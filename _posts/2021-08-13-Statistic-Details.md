@@ -144,5 +144,3 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 
 {% assign posts = data.country_stats.sa.size | minus: 1 %}
 {{ posts }} consular posts have accepted cases for the SA region.
-
-<a href="{{ '/' | relative_url }}">[Go Back]</a>
