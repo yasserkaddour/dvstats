@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "DV2021 Statistic Details for 2021-08-12"
 pageScript: |
   var el = document.querySelector('div#updated_date').nextElementSibling.querySelector('span.gs');
@@ -8,7 +8,7 @@ pageScript: |
 ---
 {% assign data = site.data.posts.stats1628805604229 %}
 
-## DV2021 Daily Visa Statistics Summary Table
+## 2021-08-12 Statistics Summary Table
 
 <div id="updated_date"></div>
 ```markdown

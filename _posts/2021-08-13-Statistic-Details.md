@@ -8,7 +8,7 @@ pageScript: |
 ---
 {% assign data = site.data.posts.stats1628882718582 %}
 
-## DV2021 Daily Visa Statistics Summary Table
+## 2021-08-13 Statistics Summary Table
 
 <div id="updated_date"></div>
 ```markdown
