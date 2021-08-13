@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "DV2021 Statistic Details for 2021-08-13"
 pageScript: |
   var el = document.querySelector('div#updated_date').nextElementSibling.querySelector('span.gs');
