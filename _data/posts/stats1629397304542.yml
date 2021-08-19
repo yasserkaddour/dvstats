@@ -9,11 +9,11 @@ summary:
     cases: 1555
     visas: 2479
   ready:
-    cases: 890
-    visas: 2326
+    cases: 891
+    visas: 2328
   refused:
-    cases: 464
-    visas: 663
+    cases: 463
+    visas: 661
   transit: 2
   total:
     cases: 2950
@@ -52,10 +52,10 @@ summary:
   refused:
     cases: 199
     visas: 376
-  transit: 6
+  transit: 5
   total:
-    cases: 1929
-    visas: 4206
+    cases: 1928
+    visas: 4205
   quota_percentage: "21.28%"
 - label: "NA"
   quota: 18
@@ -104,11 +104,11 @@ summary:
     cases: 477
     visas: 903
   ready:
-    cases: 223
-    visas: 546
+    cases: 222
+    visas: 544
   refused:
-    cases: 51
-    visas: 104
+    cases: 52
+    visas: 106
   transit: 1
   total:
     cases: 760
@@ -128,12 +128,12 @@ summary:
   refused:
     cases: 952
     visas: 1524
-  transit: 15
+  transit: 14
   total:
-    cases: 7763
-    visas: 15469
-  quota_percentage: "28.65%"
-updated_date: "2021-08-19T19:41:39.761Z"
+    cases: 7762
+    visas: 15468
+  quota_percentage: "28.64%"
+updated_date: "2021-08-19T18:23:45.185Z"
 "2nl":
 - region: "AF"
 - region: "AS"
@@ -144,7 +144,6 @@ updated_date: "2021-08-19T19:41:39.761Z"
   - "2021EU16355"
   - "2021EU17397"
   - "2021EU21504"
-  - "2021EU21592"
   - "2021EU30399"
 - region: "NA"
 - region: "OC"
@@ -291,10 +290,10 @@ country_stats:
     issuedCases: 42
     apVisas: 1
     apCases: 1
-    readyVisas: 48
-    readyCases: 19
-    refusedVisas: 10
-    refusedCases: 9
+    readyVisas: 50
+    readyCases: 20
+    refusedVisas: 8
+    refusedCases: 8
     totalVisas: 110
     totalCases: 71
   - post: "DOH"
@@ -819,10 +818,10 @@ country_stats:
     issuedCases: 1555
     apVisas: 103
     apCases: 39
-    readyVisas: 2326
-    readyCases: 890
-    refusedVisas: 663
-    refusedCases: 464
+    readyVisas: 2328
+    readyCases: 891
+    refusedVisas: 661
+    refusedCases: 463
     totalVisas: 5571
     totalCases: 2948
   as:
@@ -2564,10 +2563,10 @@ country_stats:
     issuedCases: 114
     apVisas: 0
     apCases: 0
-    readyVisas: 226
-    readyCases: 108
-    refusedVisas: 38
-    refusedCases: 18
+    readyVisas: 224
+    readyCases: 107
+    refusedVisas: 40
+    refusedCases: 19
     totalVisas: 479
     totalCases: 240
   - post: "GEO"
@@ -2852,10 +2851,10 @@ country_stats:
     issuedCases: 477
     apVisas: 16
     apCases: 8
-    readyVisas: 546
-    readyCases: 223
-    refusedVisas: 104
-    refusedCases: 51
+    readyVisas: 544
+    readyCases: 222
+    refusedVisas: 106
+    refusedCases: 52
     totalVisas: 1569
     totalCases: 759
 accepted:
