@@ -24,9 +24,6 @@ represents the number of visas. Values for number of visas are displayed in **bo
 The **Regional Quota** column represents an estimate of the number of visas allocated for each region.
 The **Transit** column represent the number of cases currently in transit.
 
-<sub><sup>1 Note: The **Regional Quota** is an estimate, and the actual regional quota allocated by the
-Department of State might differ.</sup></sub>
-
 ## Second Notification Letters (2NLs)
 
 These are the second notification letters sent out for each region:
@@ -141,3 +138,6 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
   {% endfor %}
 </ul>
 {% endif %}
+
+<sub><sup>1 The **Regional Quota** is an estimate, and the actual regional quota allocated by the
+Department of State might differ.</sup></sub>
