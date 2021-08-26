@@ -6,7 +6,7 @@ pageScript: |
   var m = moment(el.innerHTML.replaceAll('*', ''));
   el.innerHTML = m.format('LLL');
 ---
-{% assign data = site.data.posts.stats1629984607152 %}
+{% assign data = site.data.posts.stats1629997206702 %}
 
 ## 2021-08-26 Statistics Summary Table
 
