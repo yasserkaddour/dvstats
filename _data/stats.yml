@@ -3,18 +3,18 @@ summary:
 - label: "AF"
   quota: 23310
   ap:
-    cases: 87
-    visas: 114
+    cases: 106
+    visas: 137
   issued:
-    cases: 1733
-    visas: 2854
+    cases: 1748
+    visas: 2872
   ready:
-    cases: 991
-    visas: 2369
+    cases: 962
+    visas: 2335
   refused:
-    cases: 553
-    visas: 822
-  transit: 12
+    cases: 550
+    visas: 817
+  transit: 10
   total:
     cases: 3376
     visas: 6171
@@ -48,15 +48,15 @@ summary:
     visas: 2545
   ready:
     cases: 674
-    visas: 1848
+    visas: 1846
   refused:
     cases: 227
     visas: 420
   transit: 39
   total:
     cases: 2232
-    visas: 4891
-  quota_percentage: "24.75%"
+    visas: 4889
+  quota_percentage: "24.74%"
 - label: "NA"
   quota: 18
   ap:
@@ -98,17 +98,17 @@ summary:
 - label: "SA"
   quota: 1620
   ap:
-    cases: 6
-    visas: 9
+    cases: 17
+    visas: 21
   issued:
-    cases: 495
-    visas: 954
+    cases: 497
+    visas: 960
   ready:
-    cases: 524
-    visas: 1245
+    cases: 508
+    visas: 1224
   refused:
-    cases: 55
-    visas: 112
+    cases: 58
+    visas: 115
   transit: 1
   total:
     cases: 1081
@@ -117,23 +117,23 @@ summary:
 - label: "Total"
   quota: 54000
   ap:
-    cases: 144
-    visas: 216
+    cases: 174
+    visas: 251
   issued:
-    cases: 4465
-    visas: 8136
+    cases: 4482
+    visas: 8160
   ready:
-    cases: 3135
-    visas: 7462
+    cases: 3090
+    visas: 7405
   refused:
     cases: 1065
-    visas: 1730
-  transit: 69
+    visas: 1728
+  transit: 67
   total:
     cases: 8878
-    visas: 17613
-  quota_percentage: "32.62%"
-updated_date: "2021-08-27T14:03:54.759Z"
+    visas: 17611
+  quota_percentage: "32.61%"
+updated_date: "2021-08-27T16:09:59.317Z"
 "2nl":
 - region: "AF"
 - region: "AS"
@@ -145,14 +145,14 @@ country_stats:
   af:
   - post: "CSB"
     country: " Casablanca, Morocco"
-    issuedVisas: 569
-    issuedCases: 452
-    apVisas: 74
-    apCases: 66
-    readyVisas: 501
-    readyCases: 379
-    refusedVisas: 40
-    refusedCases: 25
+    issuedVisas: 587
+    issuedCases: 467
+    apVisas: 96
+    apCases: 84
+    readyVisas: 465
+    readyCases: 348
+    refusedVisas: 36
+    refusedCases: 23
     totalVisas: 1184
     totalCases: 922
   - post: "KIN"
@@ -279,12 +279,12 @@ country_stats:
     country: " Abidjan, Cote d'Ivoire"
     issuedVisas: 59
     issuedCases: 48
-    apVisas: 2
-    apCases: 1
+    apVisas: 3
+    apCases: 2
     readyVisas: 42
     readyCases: 15
-    refusedVisas: 8
-    refusedCases: 7
+    refusedVisas: 7
+    refusedCases: 6
     totalVisas: 111
     totalCases: 71
   - post: "DOH"
@@ -329,12 +329,12 @@ country_stats:
     issuedCases: 19
     apVisas: 0
     apCases: 0
-    readyVisas: 9
-    readyCases: 2
+    readyVisas: 11
+    readyCases: 4
     refusedVisas: 0
     refusedCases: 0
-    totalVisas: 65
-    totalCases: 21
+    totalVisas: 67
+    totalCases: 23
   - post: "ABD"
     country: " Abu Dhabi, United Arab Emirates"
     issuedVisas: 45
@@ -829,16 +829,16 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 2854
-    issuedCases: 1733
-    apVisas: 114
-    apCases: 87
-    readyVisas: 2369
-    readyCases: 991
-    refusedVisas: 822
-    refusedCases: 553
-    totalVisas: 6159
-    totalCases: 3364
+    issuedVisas: 2872
+    issuedCases: 1748
+    apVisas: 137
+    apCases: 106
+    readyVisas: 2335
+    readyCases: 962
+    refusedVisas: 817
+    refusedCases: 550
+    totalVisas: 6161
+    totalCases: 3366
   as:
   - post: "KDU"
     country: " Kathmandu, Nepal"
@@ -1579,11 +1579,11 @@ country_stats:
     issuedCases: 170
     apVisas: 16
     apCases: 14
-    readyVisas: 126
+    readyVisas: 124
     readyCases: 51
     refusedVisas: 28
     refusedCases: 24
-    totalVisas: 467
+    totalVisas: 465
     totalCases: 259
   - post: "BKK"
     country: " Bishkek, Kyrgyzstan"
@@ -2311,11 +2311,11 @@ country_stats:
     issuedCases: 1267
     apVisas: 39
     apCases: 25
-    readyVisas: 1848
+    readyVisas: 1846
     readyCases: 674
     refusedVisas: 420
     refusedCases: 227
-    totalVisas: 4852
+    totalVisas: 4850
     totalCases: 2193
   na:
   - post: "NSS"
@@ -2648,22 +2648,22 @@ country_stats:
     country: " Lima, Peru"
     issuedVisas: 219
     issuedCases: 116
-    apVisas: 5
-    apCases: 4
-    readyVisas: 518
-    readyCases: 240
-    refusedVisas: 35
-    refusedCases: 16
+    apVisas: 20
+    apCases: 16
+    readyVisas: 500
+    readyCases: 225
+    refusedVisas: 38
+    refusedCases: 19
     totalVisas: 777
     totalCases: 376
   - post: "GEO"
     country: " Georgetown, Guyana"
-    issuedVisas: 254
-    issuedCases: 137
-    apVisas: 3
-    apCases: 1
-    readyVisas: 365
-    readyCases: 139
+    issuedVisas: 260
+    issuedCases: 139
+    apVisas: 0
+    apCases: 0
+    readyVisas: 362
+    readyCases: 138
     refusedVisas: 9
     refusedCases: 5
     totalVisas: 631
@@ -2934,14 +2934,14 @@ country_stats:
     totalCases: 1
   - post: "Total"
     country: null
-    issuedVisas: 954
-    issuedCases: 495
-    apVisas: 9
-    apCases: 6
-    readyVisas: 1245
-    readyCases: 524
-    refusedVisas: 112
-    refusedCases: 55
+    issuedVisas: 960
+    issuedCases: 497
+    apVisas: 21
+    apCases: 17
+    readyVisas: 1224
+    readyCases: 508
+    refusedVisas: 115
+    refusedCases: 58
     totalVisas: 2320
     totalCases: 1080
 accepted:
@@ -2974,14 +2974,18 @@ accepted:
   cases: 3
   visas: 3
 - region: "AF"
+  country: " Tunis, Tunisia"
+  cases: 2
+  visas: 2
+- region: "AF"
+  country: " Warsaw, Poland"
+  cases: 1
+  visas: 1
+- region: "AF"
   country: " Kuala Lumpur, Malaysia"
   cases: 1
   visas: 1
 - region: "EU"
   country: " Nicosia, Cyprus"
-  cases: 1
-  visas: 1
-- region: "AF"
-  country: " Warsaw, Poland"
   cases: 1
   visas: 1

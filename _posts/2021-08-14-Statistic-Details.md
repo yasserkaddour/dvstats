@@ -15,15 +15,14 @@ pageScript: |
 Last updated on **{{ data.updated_date }}**
 ```
 
-Region | AP      | Issued      | Ready       | Refused   | Transit | Total       | Regional<br />Quota | %2NL
--------|---------|-------------|-------------|-----------|---------|-------------|---------------------|-----
+Region | AP      | Issued      | Ready       | Refused   | Transit | Total       |
+-------|---------|-------------|-------------|-----------|---------|-------------|
 {% for region in data.summary -%}
-**{{ region.label }}** | {{ region.ap.cases }} <br /> **{{ region.ap.visas }}** | {{ region.issued.cases }} <br /> **{{ region.issued.visas }}** | {{ region.ready.cases }} <br /> **{{ region.ready.visas }}** | {{ region.refused.cases }} <br /> **{{ region.refused.visas }}** | {{ region.transit }} | {{ region.total.cases }} <br /> **{{ region.total.visas }}** | **{{ region.quota }}** | **{{ region.quota_percentage }}**
+**{{ region.label }}** | {{ region.ap.cases }} <br /> **{{ region.ap.visas }}** | {{ region.issued.cases }} <br /> **{{ region.issued.visas }}** | {{ region.ready.cases }} <br /> **{{ region.ready.visas }}** | {{ region.refused.cases }} <br /> **{{ region.refused.visas }}** | {{ region.transit }} | {{ region.total.cases }} <br /> **{{ region.total.visas }}** |
 {% endfor %}
 
 When the field has two lines, the first line represents the number of cases, and the second line
 represents the number of visas. Values for number of visas are displayed in **bold** font.
-The **Regional Quota** represents number of visas allocated for each region.
 The number in the **Transit** column represent the number of cases.
 
 ## Second Notification Letters (2NLs)

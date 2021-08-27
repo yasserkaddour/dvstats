@@ -15,15 +15,14 @@ pageScript: |
 Last updated on **{{ data.updated_date }}**
 ```
 
-Region | AP      | Issued      | Ready       | Refused   | Transit | Total       | Regional<br />Quota<sup>1</sup> | %2NL
--------|---------|-------------|-------------|-----------|---------|-------------|---------------------|-----
+Region | AP      | Issued      | Ready       | Refused   | Transit | Total       |
+-------|---------|-------------|-------------|-----------|---------|-------------|
 {% for region in data.summary -%}
-**{{ region.label }}** | {{ region.ap.cases }} <br /> **{{ region.ap.visas }}** | {{ region.issued.cases }} <br /> **{{ region.issued.visas }}** | {{ region.ready.cases }} <br /> **{{ region.ready.visas }}** | {{ region.refused.cases }} <br /> **{{ region.refused.visas }}** | {{ region.transit }} | {{ region.total.cases }} <br /> **{{ region.total.visas }}** | **{{ region.quota }}** | **{{ region.quota_percentage }}**
+**{{ region.label }}** | {{ region.ap.cases }} <br /> **{{ region.ap.visas }}** | {{ region.issued.cases }} <br /> **{{ region.issued.visas }}** | {{ region.ready.cases }} <br /> **{{ region.ready.visas }}** | {{ region.refused.cases }} <br /> **{{ region.refused.visas }}** | {{ region.transit }} | {{ region.total.cases }} <br /> **{{ region.total.visas }}** |
 {% endfor %}
 
 When the field has two lines, the first line represents the number of cases, and the second line
 represents the number of visas. Values for number of visas are displayed in **bold** font.
-The **Regional Quota** column represents an estimate of the number of visas allocated for each region.
 The **Transit** column represent the number of cases currently in transit.
 
 ## Second Notification Letters (2NLs)
@@ -144,6 +143,3 @@ Post |                Country              | Issued | AP | Ready | Refused | Tot
 
 {% assign posts = data.country_stats.sa.size | minus: 1 %}
 {{ posts }} consular posts have accepted cases for the SA region.
-
-<sub><sup>1 The **Regional Quota** is an estimate, and the actual regional quota allocated by the
-Department of State might differ.</sup></sub>
